@@ -9,7 +9,7 @@
   },
   "scripts": {
     "predev": "npm run build",
-    "dev": "nodemon server/index.mjs --ignore ./server/routes/wordpress/private/data.json",
+    "dev": "nodemon server/index.mjs",
     "vdev": "vite",
     "build": "vite build",
     "reimg": "docker build -t kpa-www:latest .",

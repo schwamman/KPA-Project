@@ -4,7 +4,6 @@ import path from 'node:path';
 import express from 'express';
 import preRoutes from './pre-routes.mjs';
 import redirects from './redirects.mjs';
-import wordpress from './wordpress/routes.mjs';
 
 export default (app) => {
   const dist = path.join(import.meta.dirname || __dirname, '..', '..', 'dist');
@@ -14,7 +13,6 @@ export default (app) => {
   app.use(express.static(dist));
   app.use(express.static(publicDir));
   app.use(redirects);
-  wordpress(app);
 
   // render default page for all remaining routes
   app.use((req, res) => {
