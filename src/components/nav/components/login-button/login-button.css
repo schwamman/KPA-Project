@@ -1,0 +1,23 @@
+
+
+html body .page-nav ul.nav-links > li {
+  a.nav-link.login-link {
+    position:relative;
+    top:1px;
+    margin-left:3px;
+    padding:14px 9px;
+    border:0;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
+    transition: all 150ms ease;
+    background-color:#FFF;
+
+    &:hover {
+      transform: translateY(-1px);
+      box-shadow: 1px 3px 8px rgba(0,0,0,0.1);
+    }
+
+    img {
+      width:100px;
+    }
+  }
+}

@@ -1,0 +1,36 @@
+
+.stat {
+  flex: 1 1 auto;
+  font-weight: 200;
+  text-align: center;
+  flex-basis: 0;
+
+  .count {
+    font-size: 4.5vw;
+    line-height: 5.5vw;
+  }
+
+  .label {
+    font-size: 1.7vw;
+  }
+
+  @media (max-width:  599px) {
+    .count {
+      font-size: 5.5vw;
+    }
+    .label {
+      font-size: 2.7vw;
+    }
+  }
+
+
+  @media (min-width:  1500px) {
+    .count {
+      font-size:52pt;
+      line-height: 62pt;
+    }
+    .label {
+      font-size:20pt;
+    }
+  }
+}

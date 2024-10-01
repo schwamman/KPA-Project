@@ -1,0 +1,77 @@
+
+.body {
+  //background-color:#fcfcfc;
+
+  margin:auto 8vw; //0 - 320
+  @media (min-width: 321px)  { margin:auto  9vw; }
+  @media (min-width: 469px)  { margin:auto 10vw; }
+  @media (min-width: 543px)  { margin:auto 10.5vw; }
+  @media (min-width: 618px)  { margin:auto 11vw; }
+  @media (min-width: 768px)  { margin:auto 8vw; }
+  @media (min-width: 1429px) { width:1200px; margin:auto; }
+
+  //&.wide { width: auto; margin: auto 8vw; }
+
+  &.narrow {
+    //margin:auto 8vw; //0 - 320
+    //@media (min-width: 321px)  { margin:auto  9vw; }
+    //@media (min-width: 469px)  { margin:auto 10vw; }
+    //@media (min-width: 543px)  { margin:auto 10.5vw; }
+    //@media (min-width: 618px)  { margin:auto 11vw; }
+    //@media (min-width: 768px)  { margin:auto 8vw; }
+    @media (min-width: 1429px) { width:1000px; margin:auto; }
+  }
+}
+
+
+ul, ol {
+  margin:0;
+}
+
+
+a {
+  text-decoration: none;
+  color:inherit;
+}
+
+h1, h2, h3, h4, h5 {
+  line-height: 1.2em;
+
+  &.h-centered {
+    text-align: center;
+    font-weight: 400;
+    margin-top:10vh;
+    font-size:calc(1.4rem + 1.8vw);
+  }
+
+  a {
+    color:inherit;
+    font-weight: inherit;
+    font-size: inherit;
+  }
+}
+
+/** SEO doesn't like multiple h1s on one page, so we changed quite a few to h2. **/
+/** We add the h1 so it gets styled like an H1 but is actually an H2. **/
+h2.h1 {
+  font-size: 2em;
+}
+
+svg {
+  display:block;
+}
+
+.nobr {
+  white-space: nowrap;
+}
+
+.nobr-large {
+  white-space: nowrap;
+  @media (max-width: 460px){ white-space: normal; }
+}
+
+.clearfix {
+  clear: both;
+}
+
+

@@ -1,0 +1,36 @@
+
+.nav-link-container {
+  position:relative;
+  display: inline-block;
+  cursor:pointer;
+
+  .nav-link-popup {
+    display:none;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    white-space: nowrap;
+    position: absolute;
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 20px 0px rgba(0,0,0,0.15);
+    z-index: 1000;
+    top:35px;
+    border-radius:8px;
+
+    .popup-arrow {
+      position: absolute;
+      top:-10px;
+      left:calc(50% - 10px);
+    }
+
+    .nav-link-popup-body {
+      //padding:1rem;
+    }
+  }
+
+  &:hover, &.hover {
+    .nav-link-popup {
+      display:block;
+    }
+  }
+}
+

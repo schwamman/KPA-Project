@@ -1,0 +1,123 @@
+.features-menu {
+  padding:40px;
+  width:750px;
+  cursor: auto;
+
+  div.features-menu-sections {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 15px;
+
+    div.features-menu-section {
+      display:flex;
+
+      .section-icon {
+        flex:0 0 50px;
+
+        img {
+          width:35px;
+        }
+      }
+
+      .section-body {
+        flex:1;
+
+        h3 {
+          text-transform: uppercase;
+          margin:0 -0.4rem 0.1rem;
+          padding:0.2rem 0.4rem;
+          font-weight: 400;
+          font-size:0.9rem;
+          color:#025;
+          border-radius:4px;
+
+          a {
+            display: block;
+            color:#025;
+          }
+
+          &.linked:hover {
+            background-color: #f6f6f6;
+          }
+        }
+
+        ul.features-menu-links {
+          margin:0 0 1.4rem;
+          padding:0;
+          display: block;
+
+          li {
+            list-style: none;
+            font-size:1rem;
+            font-weight: 200;
+            margin:0.06rem 0;
+
+            a {
+              color:#06b;
+              display:block;
+              padding:0.1rem 0.3rem;
+              margin:0 -0.4rem;
+              border-radius:4px;
+              font-size:0.9rem;
+
+              &:hover {
+                background-color: #f6f6f6;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .features-menu-footer {
+    background-color: rgb(247, 249, 252);
+    padding: 26px 40px;
+    margin: 10px -40px -40px;
+    font-size: 17pt;
+    text-align: center;
+
+    .btn {
+      display: inline-block;
+      background-color: #FFF;
+      padding:15px;
+      margin-left: 15px;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+      font-size: 11pt;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: all 150ms ease-in-out;
+
+      &:hover {
+        transform: translateY(-1px);
+        box-shadow:0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+      }
+    }
+  }
+
+
+  /* ie 11 hack */
+  @media (-ms-high-contrast:none) {
+    div.features-menu-sections {
+      display: block;
+
+      div.features-menu-section {
+        display: block;
+        width:220px;
+        height:200px;
+        float:left;
+
+        .section-icon {
+          display: none;
+        }
+      }
+    }
+
+    .features-menu-footer {
+      clear: both;
+      font-size:14pt;
+    }
+  }
+
+}

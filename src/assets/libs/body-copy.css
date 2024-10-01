@@ -1,0 +1,141 @@
+
+.body-copy {
+  color:#444;
+  padding-bottom: 70px;
+
+  h1, .h1 {
+    font-size:calc(1.5rem + 1.5vw);
+  }
+
+  h2:not(.h1) {
+    text-transform: uppercase;
+    color:#27bf81;
+    font-size:calc(0.8rem + 0.4vw);
+    margin-top:3rem;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    color:#000;
+    font-size:calc(0.8rem + 0.4vw);
+    margin-top:3rem;
+  }
+
+  h4 {
+    text-transform: uppercase;
+    color:#444;
+    font-size:calc(0.7rem + 0.3vw);
+    margin-top:2rem;
+  }
+
+  h1 + h2 {
+    margin-top:1rem;
+  }
+
+  p {
+    font-size:calc(0.7rem + 0.4vw);
+    line-height: 1.6em;
+  }
+
+  ul {
+    font-size:calc(0.8rem + 0.4vw);
+    padding-left:20px;
+  }
+
+  p, li {
+    a {
+      border-bottom:dashed 1px #888;
+
+      &:hover {
+        color:#09c;
+        border-bottom-color: #09c;
+      }
+    }
+  }
+
+
+  ul.checkboxes {
+    list-style-type: none;
+    padding-left:0;
+
+    li:before
+    {
+      content: "\2610";
+      margin:0 6px 0 0;
+      font-size:1.4em;
+      position: relative;
+      top:1px;
+    }
+  }
+
+  .hr {
+    height:1px;
+    border-top:solid 1px #eee;
+    margin: 1rem 0;
+  }
+
+  a.footnote {
+    vertical-align: super;
+    font-size:0.7em;
+    color:#06f;
+  }
+
+  .body-quote {
+    clear: left;
+    margin:5vh 3vw;
+    border-left:solid 2px #eee;
+    padding-left:1vw;
+    font-size:1.2em;
+    color:#aaa;
+    font-style: italic;
+  }
+
+  img {
+    max-width:100%;
+  }
+
+  code {
+    background-color:#ddd;
+    color:#444;
+    padding:1px 3px;
+    border-radius: 3px;
+  }
+}
+
+.quote, blockquote {
+  margin:10vh 10vw;
+  border-left:solid 3px #f9f9f9;
+  padding-left:2vw;
+
+  .text, p {
+    font-style: italic;
+    font-weight: 200;
+    font-size:calc(1rem + (100vw - 400px)/70) !important;
+    line-height: 1.1em;
+  }
+  .source {
+    margin:1rem 0 0;
+    font-weight: 600;
+    line-height: 1.1em;
+    font-size:calc(0.8rem + (100vw - 400px)/100);
+  }
+  .subsource {
+    margin:0.5rem 0 0;
+    font-weight: 400;
+    font-size:8pt;
+    color:#bbb;
+    letter-spacing: normal;
+
+    a.super {
+      vertical-align: super;
+      font-size:0.7em;
+      color:#06f;
+    }
+  }
+}
+
+.alert-msg {
+  background-color: #ffb300 !important;
+  color: white !important;
+  padding: 8px !important;
+}

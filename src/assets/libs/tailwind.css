@@ -1,0 +1,5 @@
+/** See https://regenrek.com/posts/how-to-use-tailwind-css-1.0.1-in-nuxt/ **/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

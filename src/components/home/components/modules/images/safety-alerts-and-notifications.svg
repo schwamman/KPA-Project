@@ -1,0 +1,27 @@
+<svg id="phone" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #b4c7d4;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" d="M163,71H310a30,30,0,0,1,30,30V387a30,30,0,0,1-30,30H163a30,30,0,0,1-30-30V101A30,30,0,0,1,163,71Zm4,16H306a18,18,0,0,1,18,18V383a18,18,0,0,1-18,18H167a18,18,0,0,1-18-18V105A18,18,0,0,1,167,87Z"/>
+  <rect class="cls-2" x="143" y="115" width="187" height="18"/>
+  <rect class="cls-2" x="139" y="343" width="199" height="16"/>
+  <circle class="cls-2" cx="237" cy="378" r="13"/>
+  <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-1" d="M178.544,204.349l40.3-40.3a7.5,7.5,0,0,1,10.607,10.607l-40.3,40.3A7.5,7.5,0,0,1,178.544,204.349Z"/>
+  <path id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-1" d="M188.645,245.042l59.4-59.4a8,8,0,1,1,11.313,11.313l-59.4,59.4A8,8,0,1,1,188.645,245.042Z"/>
+  <circle class="cls-3" cx="351" cy="373" r="73"/>
+  <path class="cls-1" d="M349.5,289A83.5,83.5,0,1,1,266,372.5,83.5,83.5,0,0,1,349.5,289Zm0.5,17a67,67,0,1,1-67,67A67,67,0,0,1,350,306Z"/>
+  <path class="cls-1" d="M381,400c5.655,0,2.2-3.931,1-6s-6.454-12.411-9-18V350c0-5.373-7.024-20-23-20s-23,14.533-23,19v27c-2.455,4.8-10.144,19.142-11,21s-0.553,4,2,4S381,400,381,400Z"/>
+  <path class="cls-1" d="M350,406h7c-1.287,3.4-3.321,6-6,6a9.211,9.211,0,0,1-8-6"/>
+</svg>

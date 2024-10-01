@@ -1,0 +1,910 @@
+<svg id="device" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1189" height="1127" viewBox="0 0 1189 1127">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-14, .cls-5, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #dcdcdc;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-10, .cls-13, .cls-15, .cls-16, .cls-17, .cls-18, .cls-19, .cls-2, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-3, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f1f4fa;
+      }
+
+      .cls-3 {
+        fill: #fafbfd;
+      }
+
+      .cls-4, .cls-8 {
+        fill: #4aa0da;
+      }
+
+      .cls-11, .cls-12, .cls-5, .cls-8, .cls-9 {
+        font-size: 20.204px;
+        font-family: Gibson;
+      }
+
+      .cls-11, .cls-5 {
+        text-anchor: middle;
+      }
+
+      .cls-5, .cls-9 {
+        font-weight: 600;
+      }
+
+      .cls-16, .cls-17, .cls-6 {
+        fill: none;
+      }
+
+      .cls-6 {
+        stroke-width: 3px;
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-10, .cls-7 {
+        stroke: #f1f3f5;
+        stroke-width: 1.754px;
+      }
+
+      .cls-11, .cls-12, .cls-9 {
+        fill: #cdd7e5;
+      }
+
+      .cls-13 {
+        fill: #f1f3f5;
+      }
+
+      .cls-14 {
+        stroke: #dbdbdb;
+        stroke-width: 1px;
+      }
+
+      .cls-15, .cls-20 {
+        fill: #f9fafb;
+      }
+
+      .cls-16 {
+        stroke: #4aa0da;
+      }
+
+      .cls-16, .cls-17 {
+        stroke-width: 1.6px;
+      }
+
+      .cls-17 {
+        stroke: #00c982;
+      }
+
+      .cls-18 {
+        fill: #ecf1f3;
+      }
+
+      .cls-19, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-35 {
+        fill: #e13a34;
+      }
+
+      .cls-19 {
+        filter: url(#filter);
+      }
+
+      .cls-21 {
+        filter: url(#filter-2);
+      }
+
+      .cls-22 {
+        filter: url(#filter-3);
+      }
+
+      .cls-23 {
+        filter: url(#filter-4);
+      }
+
+      .cls-24 {
+        filter: url(#filter-5);
+      }
+
+      .cls-25 {
+        filter: url(#filter-6);
+      }
+
+      .cls-26 {
+        filter: url(#filter-7);
+      }
+
+      .cls-27 {
+        filter: url(#filter-8);
+      }
+
+      .cls-28 {
+        filter: url(#filter-9);
+      }
+
+      .cls-29 {
+        filter: url(#filter-10);
+      }
+
+      .cls-30 {
+        filter: url(#filter-11);
+      }
+
+      .cls-31 {
+        filter: url(#filter-12);
+      }
+
+      .cls-32 {
+        filter: url(#filter-13);
+      }
+
+      .cls-33 {
+        filter: url(#filter-14);
+      }
+
+      .cls-34 {
+        filter: url(#filter-15);
+      }
+
+      .cls-35 {
+        filter: url(#filter-16);
+      }
+
+      .cls-36 {
+        fill: #e9e9e9;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="595" y1="742" x2="595" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f9fafb"/>
+      <stop offset="1" stop-color="#f9fafb" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="filter" x="571.594" y="69.938" width="46.906" height="42.344" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="736.594" y="85.938" width="46.906" height="42.344" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-3" x="882.594" y="174.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-4" x="1002.59" y="314.938" width="46.91" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-5" x="1022.59" y="541.938" width="46.91" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-6" x="1001.59" y="764.938" width="46.91" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-7" x="882.594" y="899.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-8" x="736.594" y="986.938" width="46.906" height="42.342" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-9" x="570.594" y="1011.94" width="46.906" height="42.34" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-10" x="409.594" y="986.938" width="46.906" height="42.342" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-11" x="263.594" y="898.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-12" x="144.594" y="764.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-13" x="123.594" y="541.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-14" x="143.594" y="314.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-15" x="262.594" y="174.938" width="46.906" height="42.343" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-16" x="409.594" y="85.938" width="46.906" height="42.344" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#db3434"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="rouneded_border" data-name="rouneded border" class="cls-1" d="M510.065,343.505h169.12a25.058,25.058,0,0,1,25.058,25.059V757.686a25.058,25.058,0,0,1-25.058,25.059H510.065a25.058,25.058,0,0,1-25.058-25.059V368.564A25.058,25.058,0,0,1,510.065,343.505Z"/>
+  <g id="Device-2" data-name="Device">
+    <path id="screen" class="cls-2" d="M523.983,359.366h14.1c3.7,0,4.359,2.49,4.359,5.372,0,5.194,3.272,9.977,12.564,9.977h80.258c8.6,0,11.795-4.956,11.795-10.232,0-3.8,1.716-5.117,4.359-5.117h14.616c19.573,0,23.59,16.515,23.59,22.512v360.7c0,14.922-10.324,24.559-24.616,24.559H523.727c-16.8,0-23.847-13.082-23.847-26.861V383.157C499.88,368.346,510.383,359.366,523.983,359.366Z"/>
+    <path id="header" class="cls-3" d="M689.627,423.321v319.26c0,14.922-10.324,24.559-24.616,24.559H523.727c-16.8,0-23.847-13.082-23.847-26.861V423.321H689.627Z"/>
+  </g>
+  <g id="Submit">
+    <path id="rg-btn-submit-bg" class="cls-4" d="M517.685,715.464H671.309a6.265,6.265,0,0,1,6.265,6.265v19.448a6.265,6.265,0,0,1-6.265,6.265H517.685a6.265,6.265,0,0,1-6.265-6.265V721.729A6.265,6.265,0,0,1,517.685,715.464Z"/>
+    <text id="rg-btn-submit-title" class="cls-5" transform="translate(594.3 736.092) scale(0.745 0.743)"><tspan x="0">SUBMIT</tspan></text>
+    <text id="rg-btn-submit-success-title" class="cls-5" transform="translate(594.3 736.092) scale(0.745 0.743)"><tspan x="0">SUCCESS</tspan></text>
+    <circle id="rg-btn-submit-loading" class="cls-6" cx="595" cy="731" r="11"/>
+  </g>
+  <g id="Description">
+    <rect id="Rounded_Rectangle_1_copy_4" data-name="Rounded Rectangle 1 copy 4" class="cls-7" x="510.906" y="620.562" width="167.188" height="78.282" rx="4.009" ry="4.009"/>
+    <text id="rg-description-text" class="cls-8" transform="translate(520.24 639.172) scale(0.646)">.</text>
+    <text id="Description-2" data-name="Description" class="cls-9" transform="translate(510.956 607.815) scale(0.894 0.892)">Description</text>
+  </g>
+  <g id="Severity">
+    <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-10" d="M531.834,556.346h11.743a4.01,4.01,0,0,1,4.01,4.009v11.679a4.01,4.01,0,0,1-4.01,4.01H531.834a4.009,4.009,0,0,1-4.009-4.01V560.355A4.009,4.009,0,0,1,531.834,556.346Z"/>
+    <text id="Low" class="cls-11" transform="translate(538.175 549.633) scale(0.636 0.634)"><tspan x="0">Low</tspan></text>
+    <path id="Rounded_Rectangle_1_copy_2" data-name="Rounded Rectangle 1 copy 2" class="cls-10" d="M588.753,556.346H600.5a4.009,4.009,0,0,1,4.009,4.009v11.679a4.009,4.009,0,0,1-4.009,4.01H588.753a4.009,4.009,0,0,1-4.009-4.01V560.355A4.009,4.009,0,0,1,588.753,556.346Z"/>
+    <text id="Medium" class="cls-11" transform="translate(593.818 549.633) scale(0.636 0.634)"><tspan x="0">Medium</tspan></text>
+    <path id="Rounded_Rectangle_1_copy_3" data-name="Rounded Rectangle 1 copy 3" class="cls-10" d="M641.068,556.346h11.743a4.009,4.009,0,0,1,4.01,4.009v11.679a4.01,4.01,0,0,1-4.01,4.01H641.068a4.009,4.009,0,0,1-4.009-4.01V560.355A4.009,4.009,0,0,1,641.068,556.346Z"/>
+    <path id="rg-severity-check" class="cls-4" d="M649.8,570c2.025-2.025,11.029-10.429,13.2-12.6-1.33-1.33-1.844-1.244-3-2.4-2.437,2.437-8.155,7.555-10.2,9.6l-4.8-4.8-3,3C643.569,564.369,647.5,567.7,649.8,570Z"/>
+    <text id="High" class="cls-11" transform="translate(646.125 549.633) scale(0.636 0.634)"><tspan x="0">High</tspan></text>
+    <text id="Severity-2" data-name="Severity" class="cls-9" transform="translate(510.956 527.744) scale(0.894 0.892)">Severity</text>
+  </g>
+  <g id="Location">
+    <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-10" d="M514.918,467.065H674.076a4.01,4.01,0,0,1,4.01,4.01V493.5a4.01,4.01,0,0,1-4.01,4.01H514.918a4.009,4.009,0,0,1-4.009-4.01V471.075A4.009,4.009,0,0,1,514.918,467.065Z"/>
+    <text id="Location-2" data-name="Location" class="cls-9" transform="translate(510.956 454.324) scale(0.894 0.892)">Location</text>
+    <text id="rg-lbl-location" class="cls-12" transform="translate(520.7 487.707) scale(0.766 0.764)">Houston</text>
+    <path class="cls-13" d="M666.293,479.089a0.874,0.874,0,0,1,.513,1.535c-0.773.77-5,4.955-5.641,5.628a1.229,1.229,0,0,1-2.052,0l-5.641-5.628c-0.654-.653-0.369-1.535.77-1.535h12.051Z"/>
+  </g>
+  <text id="Near_Miss_Report" data-name="Near Miss Report" class="cls-9" transform="translate(510.956 407.51) scale(0.894 0.892)">Near Miss Report</text>
+  <g id="real">
+    <g id="receiver">
+      <g id="device-3" data-name="device">
+        <rect id="outline" class="cls-14" x="552" y="5" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-2" data-name="screen" class="cls-15" d="M567.467,11.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.069,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.975,4.681-4.077,0-1.515.681-2.038,1.73-2.038h5.8c7.767,0,9.361,6.58,9.361,8.969V164c0,5.945-4.1,9.785-9.768,9.785H567.365c-6.669,0-9.463-5.212-9.463-10.7V20.8C557.9,14.9,562.07,11.319,567.467,11.319Z"/>
+      </g>
+      <g id="boring">
+        <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-16" d="M567.4,29.969h14.4a4.8,4.8,0,0,1,4.8,4.8V49.142a4.8,4.8,0,0,1-4.8,4.8H567.4a4.8,4.8,0,0,1-4.8-4.8V34.769A4.8,4.8,0,0,1,567.4,29.969Z"/>
+        <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M602.6,89.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V93.9A4.8,4.8,0,0,1,602.6,89.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M567.4,149.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,567.4,149.036Z"/>
+        <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-18" d="M593.8,31.567h32.8a1.6,1.6,0,0,1,0,3.2H593.8A1.6,1.6,0,0,1,593.8,31.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M564.2,92.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,564.2,92.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M564.2,101.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,564.2,101.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M564.2,112.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,564.2,112.277Z"/>
+        <path id="Rounded_Rectangle_3_copy" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M593.8,40.357h32.8a1.6,1.6,0,0,1,0,3.2H593.8A1.6,1.6,0,0,1,593.8,40.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M593.8,49.147h32.8a1.6,1.6,0,0,1,0,3.2H593.8A1.6,1.6,0,0,1,593.8,49.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M564.2,62.732h62.4a1.6,1.6,0,0,1,0,3.2H564.2A1.6,1.6,0,0,1,564.2,62.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-2" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M564.2,71.522h62.4a1.6,1.6,0,0,1,0,3.2H564.2A1.6,1.6,0,0,1,564.2,71.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-3" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M564.2,80.313h62.4a1.6,1.6,0,0,1,0,3.2H564.2A1.6,1.6,0,0,1,564.2,80.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M564.2,122.665h62.4a1.6,1.6,0,0,1,0,3.2H564.2A1.6,1.6,0,0,1,564.2,122.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-2" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M564.2,131.455h62.4a1.6,1.6,0,0,1,0,3.2H564.2A1.6,1.6,0,0,1,564.2,131.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-3" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M564.2,140.246h62.4a1.6,1.6,0,1,1,0,3.2H564.2A1.6,1.6,0,1,1,564.2,140.246Z"/>
+      </g>
+      <g id="alert">
+        <path id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-15" d="M564.2,25.973h61.6a4.8,4.8,0,0,1,4.8,4.8V163.414a4.8,4.8,0,0,1-4.8,4.8H564.2a4.8,4.8,0,0,1-4.8-4.8V30.773A4.8,4.8,0,0,1,564.2,25.973Z"/>
+        <path class="cls-19" d="M613.8,112.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.261,5.261,0,0,0-8.8,0c-1.429,2.346-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C578.5,112.277,611,112.276,613.8,112.277Z"/>
+        <path id="Rounded_Rectangle_5" data-name="Rounded Rectangle 5" class="cls-15" d="M593.8,80.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V81.913A1.6,1.6,0,0,1,593.8,80.313Z"/>
+        <circle class="cls-20" cx="595" cy="103.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy" data-name="receiver copy">
+      <g id="device-4" data-name="device">
+        <rect id="outline-2" data-name="outline" class="cls-14" x="717" y="21" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-3" data-name="screen" class="cls-15" d="M732.467,27.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.069,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.975,4.681-4.077,0-1.515.681-2.038,1.73-2.038h5.8c7.767,0,9.361,6.58,9.361,8.969V180c0,5.945-4.1,9.785-9.768,9.785H732.365c-6.669,0-9.463-5.212-9.463-10.7V36.8C722.9,30.9,727.07,27.319,732.467,27.319Z"/>
+      </g>
+      <g id="boring-2" data-name="boring">
+        <path id="Rounded_Rectangle_2-2" data-name="Rounded Rectangle 2" class="cls-16" d="M732.4,45.969h14.4a4.8,4.8,0,0,1,4.8,4.8V65.142a4.8,4.8,0,0,1-4.8,4.8H732.4a4.8,4.8,0,0,1-4.8-4.8V50.769A4.8,4.8,0,0,1,732.4,45.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-2" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M767.6,105.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V109.9A4.8,4.8,0,0,1,767.6,105.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-2" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M732.4,165.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,732.4,165.036Z"/>
+        <path id="Rounded_Rectangle_3-2" data-name="Rounded Rectangle 3" class="cls-18" d="M758.8,47.567h32.8a1.6,1.6,0,0,1,0,3.2H758.8A1.6,1.6,0,0,1,758.8,47.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-2" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M729.2,108.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,729.2,108.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-2" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M729.2,117.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,729.2,117.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-2" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M729.2,128.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,729.2,128.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-2" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M758.8,56.357h32.8a1.6,1.6,0,0,1,0,3.2H758.8A1.6,1.6,0,0,1,758.8,56.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-2" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M758.8,65.147h32.8a1.6,1.6,0,0,1,0,3.2H758.8A1.6,1.6,0,0,1,758.8,65.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-4" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M729.2,78.732h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,78.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-5" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M729.2,87.522h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,87.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-6" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M729.2,96.313h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,96.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-4" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M729.2,138.665h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,138.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-5" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M729.2,147.455h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,147.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-6" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M729.2,156.246h62.4a1.6,1.6,0,1,1,0,3.2H729.2A1.6,1.6,0,1,1,729.2,156.246Z"/>
+      </g>
+      <g id="alert-2" data-name="alert">
+        <path id="Rounded_Rectangle_4-2" data-name="Rounded Rectangle 4" class="cls-15" d="M729.2,41.973h61.6a4.8,4.8,0,0,1,4.8,4.8V179.414a4.8,4.8,0,0,1-4.8,4.8H729.2a4.8,4.8,0,0,1-4.8-4.8V46.773A4.8,4.8,0,0,1,729.2,41.973Z"/>
+        <path class="cls-21" d="M778.8,128.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.261,5.261,0,0,0-8.8,0c-1.429,2.346-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-2" data-name="Rounded Rectangle 5" class="cls-15" d="M758.8,96.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.381a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V97.913A1.6,1.6,0,0,1,758.8,96.313Z"/>
+        <circle class="cls-20" cx="760" cy="119.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_2" data-name="receiver copy 2">
+      <g id="device-5" data-name="device">
+        <rect id="outline-3" data-name="outline" class="cls-14" x="863" y="110" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-4" data-name="screen" class="cls-15" d="M878.467,116.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.07,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V269c0,5.945-4.1,9.785-9.768,9.785H878.365c-6.669,0-9.463-5.212-9.463-10.7V125.8C868.9,119.9,873.07,116.319,878.467,116.319Z"/>
+      </g>
+      <g id="boring-3" data-name="boring">
+        <path id="Rounded_Rectangle_2-3" data-name="Rounded Rectangle 2" class="cls-16" d="M878.4,134.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H878.4a4.8,4.8,0,0,1-4.8-4.8V139.769A4.8,4.8,0,0,1,878.4,134.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-3" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M913.6,194.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V198.9A4.8,4.8,0,0,1,913.6,194.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-3" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M878.4,254.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,878.4,254.036Z"/>
+        <path id="Rounded_Rectangle_3-3" data-name="Rounded Rectangle 3" class="cls-18" d="M904.8,136.567h32.8a1.6,1.6,0,1,1,0,3.2H904.8A1.6,1.6,0,1,1,904.8,136.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-3" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M875.2,197.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,875.2,197.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-3" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M875.2,206.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,875.2,206.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-3" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M875.2,217.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,875.2,217.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-3" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M904.8,145.357h32.8a1.6,1.6,0,0,1,0,3.2H904.8A1.6,1.6,0,0,1,904.8,145.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-3" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M904.8,154.147h32.8a1.6,1.6,0,0,1,0,3.2H904.8A1.6,1.6,0,0,1,904.8,154.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-7" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M875.2,167.732h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,167.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-8" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M875.2,176.522h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,176.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-9" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M875.2,185.313h62.4a1.6,1.6,0,1,1,0,3.2H875.2A1.6,1.6,0,1,1,875.2,185.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-7" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M875.2,227.665h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,227.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-8" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M875.2,236.455h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,236.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-9" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M875.2,245.246h62.4a1.6,1.6,0,1,1,0,3.2H875.2A1.6,1.6,0,1,1,875.2,245.246Z"/>
+      </g>
+      <g id="alert-3" data-name="alert">
+        <path id="Rounded_Rectangle_4-3" data-name="Rounded Rectangle 4" class="cls-15" d="M875.2,130.973h61.6a4.8,4.8,0,0,1,4.8,4.8V268.414a4.8,4.8,0,0,1-4.8,4.8H875.2a4.8,4.8,0,0,1-4.8-4.8V135.773A4.8,4.8,0,0,1,875.2,130.973Z"/>
+        <path class="cls-22" d="M924.8,217.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-3" data-name="Rounded Rectangle 5" class="cls-15" d="M904.8,185.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,904.8,185.313Z"/>
+        <circle class="cls-20" cx="906" cy="208.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_3" data-name="receiver copy 3">
+      <g id="device-6" data-name="device">
+        <rect id="outline-4" data-name="outline" class="cls-14" x="983" y="250" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-5" data-name="screen" class="cls-15" d="M998.467,256.319h5.593c1.47,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.99,3.974h31.85c3.41,0,4.68-1.974,4.68-4.076,0-1.516.68-2.039,1.73-2.039h5.8c7.77,0,9.36,6.58,9.36,8.969V409c0,5.945-4.1,9.785-9.77,9.785H998.365c-6.669,0-9.463-5.212-9.463-10.7V265.8C988.9,259.9,993.07,256.319,998.467,256.319Z"/>
+      </g>
+      <g id="boring-4" data-name="boring">
+        <path id="Rounded_Rectangle_2-4" data-name="Rounded Rectangle 2" class="cls-16" d="M998.4,274.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H998.4a4.8,4.8,0,0,1-4.8-4.8V279.769A4.8,4.8,0,0,1,998.4,274.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-4" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M1033.6,334.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V338.9A4.8,4.8,0,0,1,1033.6,334.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-4" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M998.4,394.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,998.4,394.036Z"/>
+        <path id="Rounded_Rectangle_3-4" data-name="Rounded Rectangle 3" class="cls-18" d="M1024.8,276.567h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1024.8,276.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-4" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M995.2,337.3h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,995.2,337.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-4" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M995.2,346.888h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,995.2,346.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-4" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M995.2,357.277h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,1,1,995.2,357.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-4" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M1024.8,285.357h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1024.8,285.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-4" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M1024.8,294.147h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1024.8,294.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-10" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M995.2,307.732h62.4a1.6,1.6,0,1,1,0,3.2H995.2A1.6,1.6,0,0,1,995.2,307.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-11" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M995.2,316.522h62.4a1.6,1.6,0,1,1,0,3.2H995.2A1.6,1.6,0,0,1,995.2,316.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-12" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M995.2,325.312h62.4a1.6,1.6,0,1,1,0,3.2H995.2A1.6,1.6,0,0,1,995.2,325.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-10" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M995.2,367.665h62.4a1.6,1.6,0,1,1,0,3.2H995.2A1.6,1.6,0,0,1,995.2,367.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-11" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M995.2,376.455h62.4a1.6,1.6,0,1,1,0,3.2H995.2A1.6,1.6,0,0,1,995.2,376.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-12" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M995.2,385.246h62.4a1.6,1.6,0,1,1,0,3.2H995.2A1.6,1.6,0,1,1,995.2,385.246Z"/>
+      </g>
+      <g id="alert-4" data-name="alert">
+        <path id="Rounded_Rectangle_4-4" data-name="Rounded Rectangle 4" class="cls-15" d="M995.2,270.973h61.6a4.8,4.8,0,0,1,4.8,4.8V408.414a4.8,4.8,0,0,1-4.8,4.8H995.2a4.8,4.8,0,0,1-4.8-4.8V275.773A4.8,4.8,0,0,1,995.2,270.973Z"/>
+        <path class="cls-23" d="M1044.8,357.277c3.69,0,6.59-2.729,3.2-8.79-3.02-5.4-16.54-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.43,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-4" data-name="Rounded Rectangle 5" class="cls-15" d="M1024.8,325.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,1024.8,325.312Z"/>
+        <circle class="cls-20" cx="1026" cy="348.875" r="3.59"/>
+      </g>
+    </g>
+    <g id="receiver_copy_4" data-name="receiver copy 4">
+      <g id="device-7" data-name="device">
+        <rect id="outline-5" data-name="outline" class="cls-14" x="1003" y="477" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-6" data-name="screen" class="cls-15" d="M1018.47,483.319h5.59c1.47,0,1.73.992,1.73,2.14,0,2.07,1.3,3.975,4.99,3.975h31.85c3.41,0,4.68-1.974,4.68-4.076,0-1.516.68-2.039,1.73-2.039h5.8c7.77,0,9.36,6.58,9.36,8.969V636c0,5.945-4.1,9.785-9.77,9.785h-56.07c-6.66,0-9.46-5.212-9.46-10.7V492.8C1008.9,486.9,1013.07,483.319,1018.47,483.319Z"/>
+      </g>
+      <g id="boring-5" data-name="boring">
+        <path id="Rounded_Rectangle_2-5" data-name="Rounded Rectangle 2" class="cls-16" d="M1018.4,501.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8h-14.4a4.8,4.8,0,0,1-4.8-4.8V506.769A4.8,4.8,0,0,1,1018.4,501.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-5" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M1053.6,561.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V565.9A4.8,4.8,0,0,1,1053.6,561.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-5" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M1018.4,621.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,1018.4,621.036Z"/>
+        <path id="Rounded_Rectangle_3-5" data-name="Rounded Rectangle 3" class="cls-18" d="M1044.8,503.567h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1044.8,503.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-5" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M1015.2,564.3h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,1,1,1015.2,564.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-5" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M1015.2,573.888h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,1,1,1015.2,573.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-5" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M1015.2,584.277h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,1,1,1015.2,584.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-5" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M1044.8,512.357h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1044.8,512.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-5" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M1044.8,521.147h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1044.8,521.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-13" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M1015.2,534.732h62.4a1.6,1.6,0,1,1,0,3.2h-62.4A1.6,1.6,0,1,1,1015.2,534.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-14" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M1015.2,543.522h62.4a1.6,1.6,0,1,1,0,3.2h-62.4A1.6,1.6,0,1,1,1015.2,543.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-15" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M1015.2,552.313h62.4a1.6,1.6,0,1,1,0,3.2h-62.4A1.6,1.6,0,1,1,1015.2,552.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-13" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M1015.2,594.665h62.4a1.6,1.6,0,1,1,0,3.2h-62.4A1.6,1.6,0,1,1,1015.2,594.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-14" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M1015.2,603.455h62.4a1.6,1.6,0,1,1,0,3.2h-62.4A1.6,1.6,0,1,1,1015.2,603.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-15" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M1015.2,612.246h62.4a1.6,1.6,0,1,1,0,3.2h-62.4A1.6,1.6,0,1,1,1015.2,612.246Z"/>
+      </g>
+      <g id="alert-5" data-name="alert">
+        <path id="Rounded_Rectangle_4-5" data-name="Rounded Rectangle 4" class="cls-15" d="M1015.2,497.973h61.6a4.8,4.8,0,0,1,4.8,4.8V635.414a4.8,4.8,0,0,1-4.8,4.8h-61.6a4.8,4.8,0,0,1-4.8-4.8V502.773A4.8,4.8,0,0,1,1015.2,497.973Z"/>
+        <path class="cls-24" d="M1064.8,584.277c3.69,0,6.59-2.729,3.2-8.79-3.02-5.4-16.54-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.43,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C1029.5,584.277,1062,584.276,1064.8,584.277Z"/>
+        <path id="Rounded_Rectangle_5-5" data-name="Rounded Rectangle 5" class="cls-15" d="M1044.8,552.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,1044.8,552.313Z"/>
+        <circle class="cls-20" cx="1046" cy="575.875" r="3.59"/>
+      </g>
+    </g>
+    <g id="receiver_copy_5" data-name="receiver copy 5">
+      <g id="device-8" data-name="device">
+        <rect id="outline-6" data-name="outline" class="cls-14" x="982" y="700" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-7" data-name="screen" class="cls-15" d="M997.467,706.319h5.593c1.47,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.99,3.974h31.85c3.41,0,4.68-1.974,4.68-4.076,0-1.516.68-2.039,1.73-2.039h5.8c7.77,0,9.36,6.58,9.36,8.969V859c0,5.945-4.1,9.785-9.77,9.785H997.365c-6.669,0-9.463-5.212-9.463-10.7V715.8C987.9,709.9,992.07,706.319,997.467,706.319Z"/>
+      </g>
+      <g id="boring-6" data-name="boring">
+        <path id="Rounded_Rectangle_2-6" data-name="Rounded Rectangle 2" class="cls-16" d="M997.4,724.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H997.4a4.8,4.8,0,0,1-4.8-4.8V729.769A4.8,4.8,0,0,1,997.4,724.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-6" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M1032.6,784.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V788.9A4.8,4.8,0,0,1,1032.6,784.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-6" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M997.4,844.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,997.4,844.036Z"/>
+        <path id="Rounded_Rectangle_3-6" data-name="Rounded Rectangle 3" class="cls-18" d="M1023.8,726.567h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1023.8,726.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-6" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M994.2,787.3h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,994.2,787.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-6" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M994.2,796.888h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,994.2,796.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-6" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M994.2,807.277h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,1,1,994.2,807.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-6" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M1023.8,735.357h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1023.8,735.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-6" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M1023.8,744.147h32.8a1.6,1.6,0,1,1,0,3.2h-32.8A1.6,1.6,0,1,1,1023.8,744.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-16" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M994.2,757.732h62.4a1.6,1.6,0,1,1,0,3.2H994.2A1.6,1.6,0,0,1,994.2,757.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-17" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M994.2,766.522h62.4a1.6,1.6,0,1,1,0,3.2H994.2A1.6,1.6,0,0,1,994.2,766.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-18" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M994.2,775.312h62.4a1.6,1.6,0,1,1,0,3.2H994.2A1.6,1.6,0,0,1,994.2,775.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-16" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M994.2,817.665h62.4a1.6,1.6,0,1,1,0,3.2H994.2A1.6,1.6,0,0,1,994.2,817.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-17" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M994.2,826.455h62.4a1.6,1.6,0,1,1,0,3.2H994.2A1.6,1.6,0,0,1,994.2,826.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-18" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M994.2,835.246h62.4a1.6,1.6,0,1,1,0,3.2H994.2A1.6,1.6,0,0,1,994.2,835.246Z"/>
+      </g>
+      <g id="alert-6" data-name="alert">
+        <path id="Rounded_Rectangle_4-6" data-name="Rounded Rectangle 4" class="cls-15" d="M994.2,720.973h61.6a4.8,4.8,0,0,1,4.8,4.8V858.414a4.8,4.8,0,0,1-4.8,4.8H994.2a4.8,4.8,0,0,1-4.8-4.8V725.773A4.8,4.8,0,0,1,994.2,720.973Z"/>
+        <path class="cls-25" d="M1043.8,807.277c3.69,0,6.59-2.729,3.2-8.79-3.02-5.4-16.54-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.43,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C1008.5,807.277,1041,807.276,1043.8,807.277Z"/>
+        <path id="Rounded_Rectangle_5-6" data-name="Rounded Rectangle 5" class="cls-15" d="M1023.8,775.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,1023.8,775.312Z"/>
+        <circle class="cls-20" cx="1025" cy="798.875" r="3.59"/>
+      </g>
+    </g>
+    <g id="receiver_copy_6" data-name="receiver copy 6">
+      <g id="device-9" data-name="device">
+        <rect id="outline-7" data-name="outline" class="cls-14" x="863" y="835" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-8" data-name="screen" class="cls-15" d="M878.467,841.319h5.6c1.469,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.986,3.974h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V994c0,5.945-4.1,9.782-9.768,9.782H878.365c-6.669,0-9.463-5.209-9.463-10.7V850.8C868.9,844.9,873.07,841.319,878.467,841.319Z"/>
+      </g>
+      <g id="boring-7" data-name="boring">
+        <path id="Rounded_Rectangle_2-7" data-name="Rounded Rectangle 2" class="cls-16" d="M878.4,859.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H878.4a4.8,4.8,0,0,1-4.8-4.8V864.769A4.8,4.8,0,0,1,878.4,859.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-7" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M913.6,919.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V923.9A4.8,4.8,0,0,1,913.6,919.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-7" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M878.4,979.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,878.4,979.036Z"/>
+        <path id="Rounded_Rectangle_3-7" data-name="Rounded Rectangle 3" class="cls-18" d="M904.8,861.567h32.8a1.6,1.6,0,1,1,0,3.2H904.8A1.6,1.6,0,1,1,904.8,861.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-7" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M875.2,922.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,875.2,922.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-7" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M875.2,931.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,875.2,931.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-7" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M875.2,942.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,875.2,942.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-7" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M904.8,870.357h32.8a1.6,1.6,0,0,1,0,3.2H904.8A1.6,1.6,0,0,1,904.8,870.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-7" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M904.8,879.147h32.8a1.6,1.6,0,0,1,0,3.2H904.8A1.6,1.6,0,0,1,904.8,879.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-19" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M875.2,892.732h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,892.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-20" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M875.2,901.522h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,901.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-21" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M875.2,910.312h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,910.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-19" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M875.2,952.665h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,952.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-20" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M875.2,961.455h62.4a1.6,1.6,0,0,1,0,3.2H875.2A1.6,1.6,0,0,1,875.2,961.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-21" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M875.2,970.246h62.4a1.6,1.6,0,1,1,0,3.2H875.2A1.6,1.6,0,1,1,875.2,970.246Z"/>
+      </g>
+      <g id="alert-7" data-name="alert">
+        <path id="Rounded_Rectangle_4-7" data-name="Rounded Rectangle 4" class="cls-15" d="M875.2,855.973h61.6a4.8,4.8,0,0,1,4.8,4.8V993.414a4.8,4.8,0,0,1-4.8,4.8H875.2a4.8,4.8,0,0,1-4.8-4.8V860.773A4.8,4.8,0,0,1,875.2,855.973Z"/>
+        <path class="cls-26" d="M924.8,942.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.282-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C889.5,942.277,922,942.276,924.8,942.277Z"/>
+        <path id="Rounded_Rectangle_5-7" data-name="Rounded Rectangle 5" class="cls-15" d="M904.8,910.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.381a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V911.912A1.6,1.6,0,0,1,904.8,910.312Z"/>
+        <circle class="cls-20" cx="906" cy="933.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_7" data-name="receiver copy 7">
+      <g id="device-10" data-name="device">
+        <rect id="outline-8" data-name="outline" class="cls-14" x="717" y="922" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-9" data-name="screen" class="cls-15" d="M732.467,928.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.07,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V1081c0,5.94-4.1,9.78-9.768,9.78H732.365c-6.669,0-9.463-5.21-9.463-10.7V937.8C722.9,931.9,727.07,928.319,732.467,928.319Z"/>
+      </g>
+      <g id="boring-8" data-name="boring">
+        <path id="Rounded_Rectangle_2-8" data-name="Rounded Rectangle 2" class="cls-16" d="M732.4,946.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H732.4a4.8,4.8,0,0,1-4.8-4.8V951.769A4.8,4.8,0,0,1,732.4,946.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-8" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M767.6,1006.1h20a4.8,4.8,0,0,1,4.8,4.8v19.17a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V1010.9A4.8,4.8,0,0,1,767.6,1006.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-8" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M732.4,1066.04h56a4.794,4.794,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.794,4.794,0,0,1,732.4,1066.04Z"/>
+        <path id="Rounded_Rectangle_3-8" data-name="Rounded Rectangle 3" class="cls-18" d="M758.8,948.567h32.8a1.6,1.6,0,1,1,0,3.2H758.8A1.6,1.6,0,1,1,758.8,948.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-8" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M729.2,1009.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,729.2,1009.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-8" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M729.2,1018.89h24a1.6,1.6,0,1,1,0,3.19h-24A1.6,1.6,0,1,1,729.2,1018.89Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-8" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M729.2,1029.28h24a1.6,1.6,0,1,1,0,3.19h-24A1.6,1.6,0,1,1,729.2,1029.28Z"/>
+        <path id="Rounded_Rectangle_3_copy-8" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M758.8,957.357h32.8a1.6,1.6,0,0,1,0,3.2H758.8A1.6,1.6,0,0,1,758.8,957.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-8" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M758.8,966.147h32.8a1.6,1.6,0,0,1,0,3.2H758.8A1.6,1.6,0,0,1,758.8,966.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-22" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M729.2,979.732h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,979.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-23" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M729.2,988.522h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,988.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-24" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M729.2,997.312h62.4a1.6,1.6,0,0,1,0,3.2H729.2A1.6,1.6,0,0,1,729.2,997.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-22" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M729.2,1039.67h62.4a1.6,1.6,0,1,1,0,3.19H729.2A1.6,1.6,0,1,1,729.2,1039.67Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-23" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M729.2,1048.46h62.4a1.6,1.6,0,1,1,0,3.19H729.2A1.6,1.6,0,1,1,729.2,1048.46Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-24" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M729.2,1057.25h62.4a1.6,1.6,0,1,1,0,3.19H729.2A1.6,1.6,0,1,1,729.2,1057.25Z"/>
+      </g>
+      <g id="alert-8" data-name="alert">
+        <path id="Rounded_Rectangle_4-8" data-name="Rounded Rectangle 4" class="cls-15" d="M729.2,942.973h61.6a4.8,4.8,0,0,1,4.8,4.8V1080.41a4.794,4.794,0,0,1-4.8,4.8H729.2a4.794,4.794,0,0,1-4.8-4.8V947.773A4.8,4.8,0,0,1,729.2,942.973Z"/>
+        <path class="cls-27" d="M778.8,1029.28c3.688,0,6.592-2.73,3.2-8.79-3.021-5.4-16.539-29.434-17.6-31.169a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.279-17.6,31.169-2,3.59-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-8" data-name="Rounded Rectangle 5" class="cls-15" d="M758.8,997.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.377a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V998.913A1.6,1.6,0,0,1,758.8,997.312Z"/>
+        <circle class="cls-20" cx="760" cy="1020.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_8" data-name="receiver copy 8">
+      <g id="device-11" data-name="device">
+        <rect id="outline-9" data-name="outline" class="cls-14" x="551" y="947" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-10" data-name="screen" class="cls-15" d="M566.467,953.319h5.6c1.469,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.986,3.974h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V1106c0,5.94-4.1,9.78-9.768,9.78H566.365c-6.669,0-9.463-5.21-9.463-10.7V962.8C556.9,956.9,561.07,953.319,566.467,953.319Z"/>
+      </g>
+      <g id="boring-9" data-name="boring">
+        <path id="Rounded_Rectangle_2-9" data-name="Rounded Rectangle 2" class="cls-16" d="M566.4,971.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H566.4a4.8,4.8,0,0,1-4.8-4.8V976.769A4.8,4.8,0,0,1,566.4,971.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-9" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M601.6,1031.1h20a4.8,4.8,0,0,1,4.8,4.8v19.17a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V1035.9A4.8,4.8,0,0,1,601.6,1031.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-9" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M566.4,1091.04h56a4.794,4.794,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.794,4.794,0,0,1,566.4,1091.04Z"/>
+        <path id="Rounded_Rectangle_3-9" data-name="Rounded Rectangle 3" class="cls-18" d="M592.8,973.567h32.8a1.6,1.6,0,1,1,0,3.2H592.8A1.6,1.6,0,1,1,592.8,973.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-9" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M563.2,1034.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,563.2,1034.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-9" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M563.2,1043.89h24a1.6,1.6,0,1,1,0,3.19h-24A1.6,1.6,0,1,1,563.2,1043.89Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-9" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M563.2,1054.28h24a1.6,1.6,0,1,1,0,3.19h-24A1.6,1.6,0,1,1,563.2,1054.28Z"/>
+        <path id="Rounded_Rectangle_3_copy-9" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M592.8,982.357h32.8a1.6,1.6,0,0,1,0,3.2H592.8A1.6,1.6,0,0,1,592.8,982.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-9" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M592.8,991.147h32.8a1.6,1.6,0,0,1,0,3.2H592.8A1.6,1.6,0,0,1,592.8,991.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-25" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M563.2,1004.73h62.4a1.6,1.6,0,0,1,0,3.2H563.2A1.6,1.6,0,0,1,563.2,1004.73Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-26" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M563.2,1013.52h62.4a1.6,1.6,0,0,1,0,3.2H563.2A1.6,1.6,0,0,1,563.2,1013.52Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-27" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M563.2,1022.31h62.4a1.6,1.6,0,0,1,0,3.2H563.2A1.6,1.6,0,0,1,563.2,1022.31Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-25" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M563.2,1064.67h62.4a1.6,1.6,0,1,1,0,3.19H563.2A1.6,1.6,0,1,1,563.2,1064.67Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-26" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M563.2,1073.46h62.4a1.6,1.6,0,1,1,0,3.19H563.2A1.6,1.6,0,1,1,563.2,1073.46Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-27" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M563.2,1082.25h62.4a1.6,1.6,0,1,1,0,3.19H563.2A1.6,1.6,0,1,1,563.2,1082.25Z"/>
+      </g>
+      <g id="alert-9" data-name="alert">
+        <path id="Rounded_Rectangle_4-9" data-name="Rounded Rectangle 4" class="cls-15" d="M563.2,967.973h61.6a4.8,4.8,0,0,1,4.8,4.8V1105.41a4.794,4.794,0,0,1-4.8,4.8H563.2a4.794,4.794,0,0,1-4.8-4.8V972.773A4.8,4.8,0,0,1,563.2,967.973Z"/>
+        <path class="cls-28" d="M612.8,1054.28c3.688,0,6.592-2.73,3.2-8.79-3.021-5.4-16.539-29.43-17.6-31.17a5.265,5.265,0,0,0-8.8,0c-1.429,2.35-16.55,29.28-17.6,31.17-2,3.59-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-9" data-name="Rounded Rectangle 5" class="cls-15" d="M592.8,1022.31h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,592.8,1022.31Z"/>
+        <circle class="cls-20" cx="594" cy="1045.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_9" data-name="receiver copy 9">
+      <g id="device-12" data-name="device">
+        <rect id="outline-10" data-name="outline" class="cls-14" x="390" y="922" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-11" data-name="screen" class="cls-15" d="M405.467,928.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.07,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V1081c0,5.94-4.1,9.78-9.768,9.78H405.365c-6.669,0-9.463-5.21-9.463-10.7V937.8C395.9,931.9,400.07,928.319,405.467,928.319Z"/>
+      </g>
+      <g id="boring-10" data-name="boring">
+        <path id="Rounded_Rectangle_2-10" data-name="Rounded Rectangle 2" class="cls-16" d="M405.4,946.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H405.4a4.8,4.8,0,0,1-4.8-4.8V951.769A4.8,4.8,0,0,1,405.4,946.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-10" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M440.6,1006.1h20a4.8,4.8,0,0,1,4.8,4.8v19.17a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V1010.9A4.8,4.8,0,0,1,440.6,1006.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-10" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M405.4,1066.04h56a4.794,4.794,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.794,4.794,0,0,1,405.4,1066.04Z"/>
+        <path id="Rounded_Rectangle_3-10" data-name="Rounded Rectangle 3" class="cls-18" d="M431.8,948.567h32.8a1.6,1.6,0,1,1,0,3.2H431.8A1.6,1.6,0,0,1,431.8,948.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-10" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M402.2,1009.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,402.2,1009.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-10" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M402.2,1018.89h24a1.6,1.6,0,1,1,0,3.19h-24A1.6,1.6,0,1,1,402.2,1018.89Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-10" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M402.2,1029.28h24a1.6,1.6,0,1,1,0,3.19h-24A1.6,1.6,0,1,1,402.2,1029.28Z"/>
+        <path id="Rounded_Rectangle_3_copy-10" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M431.8,957.357h32.8a1.6,1.6,0,0,1,0,3.2H431.8A1.6,1.6,0,0,1,431.8,957.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-10" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M431.8,966.147h32.8a1.6,1.6,0,0,1,0,3.2H431.8A1.6,1.6,0,0,1,431.8,966.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-28" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M402.2,979.732h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,979.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-29" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M402.2,988.522h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,988.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-30" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M402.2,997.312h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,997.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-28" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M402.2,1039.67h62.4a1.6,1.6,0,1,1,0,3.19H402.2A1.6,1.6,0,1,1,402.2,1039.67Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-29" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M402.2,1048.46h62.4a1.6,1.6,0,1,1,0,3.19H402.2A1.6,1.6,0,1,1,402.2,1048.46Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-30" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M402.2,1057.25h62.4a1.6,1.6,0,1,1,0,3.19H402.2A1.6,1.6,0,1,1,402.2,1057.25Z"/>
+      </g>
+      <g id="alert-10" data-name="alert">
+        <path id="Rounded_Rectangle_4-10" data-name="Rounded Rectangle 4" class="cls-15" d="M402.2,942.973h61.6a4.8,4.8,0,0,1,4.8,4.8V1080.41a4.794,4.794,0,0,1-4.8,4.8H402.2a4.794,4.794,0,0,1-4.8-4.8V947.773A4.8,4.8,0,0,1,402.2,942.973Z"/>
+        <path class="cls-29" d="M451.8,1029.28c3.688,0,6.592-2.73,3.2-8.79-3.021-5.4-16.539-29.434-17.6-31.169a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.279-17.6,31.169-2,3.59-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-10" data-name="Rounded Rectangle 5" class="cls-15" d="M431.8,997.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.377a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V998.913A1.6,1.6,0,0,1,431.8,997.312Z"/>
+        <circle class="cls-20" cx="433" cy="1020.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_10" data-name="receiver copy 10">
+      <g id="device-13" data-name="device">
+        <rect id="outline-11" data-name="outline" class="cls-14" x="244" y="834" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-12" data-name="screen" class="cls-15" d="M259.467,840.319h5.6c1.469,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.986,3.974h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V993c0,5.945-4.1,9.782-9.768,9.782H259.365c-6.669,0-9.463-5.209-9.463-10.7V849.8C249.9,843.9,254.07,840.319,259.467,840.319Z"/>
+      </g>
+      <g id="boring-11" data-name="boring">
+        <path id="Rounded_Rectangle_2-11" data-name="Rounded Rectangle 2" class="cls-16" d="M259.4,858.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H259.4a4.8,4.8,0,0,1-4.8-4.8V863.769A4.8,4.8,0,0,1,259.4,858.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-11" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M294.6,918.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V922.9A4.8,4.8,0,0,1,294.6,918.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-11" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M259.4,978.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,259.4,978.036Z"/>
+        <path id="Rounded_Rectangle_3-11" data-name="Rounded Rectangle 3" class="cls-18" d="M285.8,860.567h32.8a1.6,1.6,0,0,1,0,3.2H285.8A1.6,1.6,0,1,1,285.8,860.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-11" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M256.2,921.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,256.2,921.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-11" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M256.2,930.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,256.2,930.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-11" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M256.2,941.277h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,256.2,941.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-11" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M285.8,869.357h32.8a1.6,1.6,0,0,1,0,3.2H285.8A1.6,1.6,0,0,1,285.8,869.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-11" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M285.8,878.147h32.8a1.6,1.6,0,0,1,0,3.2H285.8A1.6,1.6,0,0,1,285.8,878.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-31" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M256.2,891.732h62.4a1.6,1.6,0,0,1,0,3.2H256.2A1.6,1.6,0,0,1,256.2,891.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-32" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M256.2,900.522h62.4a1.6,1.6,0,0,1,0,3.2H256.2A1.6,1.6,0,0,1,256.2,900.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-33" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M256.2,909.313h62.4a1.6,1.6,0,0,1,0,3.2H256.2A1.6,1.6,0,1,1,256.2,909.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-31" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M256.2,951.665h62.4a1.6,1.6,0,0,1,0,3.2H256.2A1.6,1.6,0,0,1,256.2,951.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-32" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M256.2,960.455h62.4a1.6,1.6,0,0,1,0,3.2H256.2A1.6,1.6,0,0,1,256.2,960.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-33" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M256.2,969.246h62.4a1.6,1.6,0,0,1,0,3.2H256.2A1.6,1.6,0,1,1,256.2,969.246Z"/>
+      </g>
+      <g id="alert-11" data-name="alert">
+        <path id="Rounded_Rectangle_4-11" data-name="Rounded Rectangle 4" class="cls-15" d="M256.2,854.973h61.6a4.8,4.8,0,0,1,4.8,4.8V992.414a4.8,4.8,0,0,1-4.8,4.8H256.2a4.8,4.8,0,0,1-4.8-4.8V859.773A4.8,4.8,0,0,1,256.2,854.973Z"/>
+        <path class="cls-30" d="M305.8,941.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.282-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C270.5,941.277,303,941.276,305.8,941.277Z"/>
+        <path id="Rounded_Rectangle_5-11" data-name="Rounded Rectangle 5" class="cls-15" d="M285.8,909.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.381a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V910.912A1.6,1.6,0,0,1,285.8,909.313Z"/>
+        <circle class="cls-20" cx="287" cy="932.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_11" data-name="receiver copy 11">
+      <g id="device-14" data-name="device">
+        <rect id="outline-12" data-name="outline" class="cls-14" x="125" y="700" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-13" data-name="screen" class="cls-15" d="M140.467,706.319h5.6c1.469,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.986,3.974h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V859c0,5.945-4.1,9.785-9.768,9.785H140.365c-6.669,0-9.463-5.212-9.463-10.7V715.8C130.9,709.9,135.07,706.319,140.467,706.319Z"/>
+      </g>
+      <g id="boring-12" data-name="boring">
+        <path id="Rounded_Rectangle_2-12" data-name="Rounded Rectangle 2" class="cls-16" d="M140.4,724.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H140.4a4.8,4.8,0,0,1-4.8-4.8V729.769A4.8,4.8,0,0,1,140.4,724.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-12" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M175.6,784.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V788.9A4.8,4.8,0,0,1,175.6,784.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-12" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M140.4,844.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,140.4,844.036Z"/>
+        <path id="Rounded_Rectangle_3-12" data-name="Rounded Rectangle 3" class="cls-18" d="M166.8,726.567h32.8a1.6,1.6,0,0,1,0,3.2H166.8A1.6,1.6,0,0,1,166.8,726.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-12" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M137.2,787.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,137.2,787.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-12" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M137.2,796.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,137.2,796.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-12" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M137.2,807.277h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,137.2,807.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-12" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M166.8,735.357h32.8a1.6,1.6,0,0,1,0,3.2H166.8A1.6,1.6,0,0,1,166.8,735.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-12" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M166.8,744.147h32.8a1.6,1.6,0,0,1,0,3.2H166.8A1.6,1.6,0,0,1,166.8,744.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-34" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M137.2,757.732h62.4a1.6,1.6,0,0,1,0,3.2H137.2A1.6,1.6,0,0,1,137.2,757.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-35" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M137.2,766.522h62.4a1.6,1.6,0,0,1,0,3.2H137.2A1.6,1.6,0,0,1,137.2,766.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-36" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M137.2,775.312h62.4a1.6,1.6,0,0,1,0,3.2H137.2A1.6,1.6,0,0,1,137.2,775.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-34" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M137.2,817.665h62.4a1.6,1.6,0,0,1,0,3.2H137.2A1.6,1.6,0,0,1,137.2,817.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-35" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M137.2,826.455h62.4a1.6,1.6,0,0,1,0,3.2H137.2A1.6,1.6,0,0,1,137.2,826.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-36" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M137.2,835.246h62.4a1.6,1.6,0,0,1,0,3.2H137.2A1.6,1.6,0,1,1,137.2,835.246Z"/>
+      </g>
+      <g id="alert-12" data-name="alert">
+        <path id="Rounded_Rectangle_4-12" data-name="Rounded Rectangle 4" class="cls-15" d="M137.2,720.973h61.6a4.8,4.8,0,0,1,4.8,4.8V858.414a4.8,4.8,0,0,1-4.8,4.8H137.2a4.8,4.8,0,0,1-4.8-4.8V725.773A4.8,4.8,0,0,1,137.2,720.973Z"/>
+        <path class="cls-31" d="M186.8,807.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C151.5,807.277,184,807.276,186.8,807.277Z"/>
+        <path id="Rounded_Rectangle_5-12" data-name="Rounded Rectangle 5" class="cls-15" d="M166.8,775.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,166.8,775.312Z"/>
+        <circle class="cls-20" cx="168" cy="798.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_12" data-name="receiver copy 12">
+      <g id="device-15" data-name="device">
+        <rect id="outline-13" data-name="outline" class="cls-14" x="104" y="477" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-14" data-name="screen" class="cls-15" d="M119.467,483.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.07,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V636c0,5.945-4.1,9.785-9.768,9.785H119.365c-6.668,0-9.463-5.212-9.463-10.7V492.8C109.9,486.9,114.07,483.319,119.467,483.319Z"/>
+      </g>
+      <g id="boring-13" data-name="boring">
+        <path id="Rounded_Rectangle_2-13" data-name="Rounded Rectangle 2" class="cls-16" d="M119.4,501.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H119.4a4.8,4.8,0,0,1-4.8-4.8V506.769A4.8,4.8,0,0,1,119.4,501.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-13" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M154.6,561.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V565.9A4.8,4.8,0,0,1,154.6,561.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-13" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M119.4,621.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,119.4,621.036Z"/>
+        <path id="Rounded_Rectangle_3-13" data-name="Rounded Rectangle 3" class="cls-18" d="M145.8,503.567h32.8a1.6,1.6,0,1,1,0,3.2H145.8A1.6,1.6,0,0,1,145.8,503.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-13" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M116.2,564.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,116.2,564.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-13" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M116.2,573.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,116.2,573.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-13" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M116.2,584.277h24a1.6,1.6,0,1,1,0,3.2h-24A1.6,1.6,0,0,1,116.2,584.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-13" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M145.8,512.357h32.8a1.6,1.6,0,0,1,0,3.2H145.8A1.6,1.6,0,0,1,145.8,512.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-13" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M145.8,521.147h32.8a1.6,1.6,0,0,1,0,3.2H145.8A1.6,1.6,0,0,1,145.8,521.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-37" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M116.2,534.732h62.4a1.6,1.6,0,0,1,0,3.2H116.2A1.6,1.6,0,0,1,116.2,534.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-38" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M116.2,543.522h62.4a1.6,1.6,0,0,1,0,3.2H116.2A1.6,1.6,0,0,1,116.2,543.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-39" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M116.2,552.313h62.4a1.6,1.6,0,1,1,0,3.2H116.2A1.6,1.6,0,1,1,116.2,552.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-37" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M116.2,594.665h62.4a1.6,1.6,0,0,1,0,3.2H116.2A1.6,1.6,0,0,1,116.2,594.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-38" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M116.2,603.455h62.4a1.6,1.6,0,0,1,0,3.2H116.2A1.6,1.6,0,0,1,116.2,603.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-39" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M116.2,612.246h62.4a1.6,1.6,0,0,1,0,3.2H116.2A1.6,1.6,0,0,1,116.2,612.246Z"/>
+      </g>
+      <g id="alert-13" data-name="alert">
+        <path id="Rounded_Rectangle_4-13" data-name="Rounded Rectangle 4" class="cls-15" d="M116.2,497.973h61.6a4.8,4.8,0,0,1,4.8,4.8V635.414a4.8,4.8,0,0,1-4.8,4.8H116.2a4.8,4.8,0,0,1-4.8-4.8V502.773A4.8,4.8,0,0,1,116.2,497.973Z"/>
+        <path class="cls-32" d="M165.8,584.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79C130.5,584.277,163,584.276,165.8,584.277Z"/>
+        <path id="Rounded_Rectangle_5-13" data-name="Rounded Rectangle 5" class="cls-15" d="M145.8,552.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,145.8,552.313Z"/>
+        <circle class="cls-20" cx="147" cy="575.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_13" data-name="receiver copy 13">
+      <g id="device-16" data-name="device">
+        <rect id="outline-14" data-name="outline" class="cls-14" x="124" y="250" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-15" data-name="screen" class="cls-15" d="M139.467,256.319h5.6c1.469,0,1.73.992,1.73,2.141,0,2.069,1.3,3.974,4.986,3.974h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V409c0,5.945-4.1,9.785-9.768,9.785H139.365c-6.669,0-9.463-5.212-9.463-10.7V265.8C129.9,259.9,134.07,256.319,139.467,256.319Z"/>
+      </g>
+      <g id="boring-14" data-name="boring">
+        <path id="Rounded_Rectangle_2-14" data-name="Rounded Rectangle 2" class="cls-16" d="M139.4,274.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H139.4a4.8,4.8,0,0,1-4.8-4.8V279.769A4.8,4.8,0,0,1,139.4,274.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-14" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M174.6,334.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V338.9A4.8,4.8,0,0,1,174.6,334.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-14" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M139.4,394.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,139.4,394.036Z"/>
+        <path id="Rounded_Rectangle_3-14" data-name="Rounded Rectangle 3" class="cls-18" d="M165.8,276.567h32.8a1.6,1.6,0,0,1,0,3.2H165.8A1.6,1.6,0,1,1,165.8,276.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-14" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M136.2,337.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,136.2,337.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-14" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M136.2,346.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,136.2,346.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-14" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M136.2,357.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,136.2,357.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-14" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M165.8,285.357h32.8a1.6,1.6,0,0,1,0,3.2H165.8A1.6,1.6,0,0,1,165.8,285.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-14" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M165.8,294.147h32.8a1.6,1.6,0,0,1,0,3.2H165.8A1.6,1.6,0,0,1,165.8,294.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-40" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M136.2,307.732h62.4a1.6,1.6,0,0,1,0,3.2H136.2A1.6,1.6,0,0,1,136.2,307.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-41" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M136.2,316.522h62.4a1.6,1.6,0,0,1,0,3.2H136.2A1.6,1.6,0,0,1,136.2,316.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-42" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M136.2,325.312h62.4a1.6,1.6,0,0,1,0,3.2H136.2A1.6,1.6,0,0,1,136.2,325.312Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-40" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M136.2,367.665h62.4a1.6,1.6,0,0,1,0,3.2H136.2A1.6,1.6,0,0,1,136.2,367.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-41" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M136.2,376.455h62.4a1.6,1.6,0,0,1,0,3.2H136.2A1.6,1.6,0,0,1,136.2,376.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-42" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M136.2,385.246h62.4a1.6,1.6,0,0,1,0,3.2H136.2A1.6,1.6,0,0,1,136.2,385.246Z"/>
+      </g>
+      <g id="alert-14" data-name="alert">
+        <path id="Rounded_Rectangle_4-14" data-name="Rounded Rectangle 4" class="cls-15" d="M136.2,270.973h61.6a4.8,4.8,0,0,1,4.8,4.8V408.414a4.8,4.8,0,0,1-4.8,4.8H136.2a4.8,4.8,0,0,1-4.8-4.8V275.773A4.8,4.8,0,0,1,136.2,270.973Z"/>
+        <path class="cls-33" d="M185.8,357.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-14" data-name="Rounded Rectangle 5" class="cls-15" d="M165.8,325.312h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,165.8,325.312Z"/>
+        <circle class="cls-20" cx="167" cy="348.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_14" data-name="receiver copy 14">
+      <g id="device-17" data-name="device">
+        <rect id="outline-15" data-name="outline" class="cls-14" x="243" y="110" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-16" data-name="screen" class="cls-15" d="M258.467,116.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.07,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.974,4.681-4.076,0-1.516.681-2.039,1.73-2.039h5.8c7.767,0,9.361,6.58,9.361,8.969V269c0,5.945-4.1,9.785-9.768,9.785H258.365c-6.669,0-9.463-5.212-9.463-10.7V125.8C248.9,119.9,253.07,116.319,258.467,116.319Z"/>
+      </g>
+      <g id="boring-15" data-name="boring">
+        <path id="Rounded_Rectangle_2-15" data-name="Rounded Rectangle 2" class="cls-16" d="M258.4,134.969h14.4a4.8,4.8,0,0,1,4.8,4.8v14.373a4.8,4.8,0,0,1-4.8,4.8H258.4a4.8,4.8,0,0,1-4.8-4.8V139.769A4.8,4.8,0,0,1,258.4,134.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-15" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M293.6,194.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V198.9A4.8,4.8,0,0,1,293.6,194.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-15" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M258.4,254.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,258.4,254.036Z"/>
+        <path id="Rounded_Rectangle_3-15" data-name="Rounded Rectangle 3" class="cls-18" d="M284.8,136.567h32.8a1.6,1.6,0,1,1,0,3.2H284.8A1.6,1.6,0,1,1,284.8,136.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-15" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M255.2,197.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,255.2,197.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-15" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M255.2,206.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,255.2,206.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-15" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M255.2,217.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,255.2,217.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-15" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M284.8,145.357h32.8a1.6,1.6,0,0,1,0,3.2H284.8A1.6,1.6,0,0,1,284.8,145.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-15" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M284.8,154.147h32.8a1.6,1.6,0,0,1,0,3.2H284.8A1.6,1.6,0,0,1,284.8,154.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-43" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M255.2,167.732h62.4a1.6,1.6,0,0,1,0,3.2H255.2A1.6,1.6,0,0,1,255.2,167.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-44" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M255.2,176.522h62.4a1.6,1.6,0,0,1,0,3.2H255.2A1.6,1.6,0,0,1,255.2,176.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-45" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M255.2,185.313h62.4a1.6,1.6,0,0,1,0,3.2H255.2A1.6,1.6,0,0,1,255.2,185.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-43" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M255.2,227.665h62.4a1.6,1.6,0,0,1,0,3.2H255.2A1.6,1.6,0,0,1,255.2,227.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-44" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M255.2,236.455h62.4a1.6,1.6,0,0,1,0,3.2H255.2A1.6,1.6,0,0,1,255.2,236.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-45" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M255.2,245.246h62.4a1.6,1.6,0,1,1,0,3.2H255.2A1.6,1.6,0,1,1,255.2,245.246Z"/>
+      </g>
+      <g id="alert-15" data-name="alert">
+        <path id="Rounded_Rectangle_4-15" data-name="Rounded Rectangle 4" class="cls-15" d="M255.2,130.973h61.6a4.8,4.8,0,0,1,4.8,4.8V268.414a4.8,4.8,0,0,1-4.8,4.8H255.2a4.8,4.8,0,0,1-4.8-4.8V135.773A4.8,4.8,0,0,1,255.2,130.973Z"/>
+        <path class="cls-34" d="M304.8,217.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.262,5.262,0,0,0-8.8,0c-1.429,2.347-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-15" data-name="Rounded Rectangle 5" class="cls-15" d="M284.8,185.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.38a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6v-14.38A1.6,1.6,0,0,1,284.8,185.313Z"/>
+        <circle class="cls-20" cx="286" cy="208.875" r="3.594"/>
+      </g>
+    </g>
+    <g id="receiver_copy_15" data-name="receiver copy 15">
+      <g id="device-18" data-name="device">
+        <rect id="outline-16" data-name="outline" class="cls-14" x="390" y="21" width="86" height="173" rx="11" ry="11"/>
+        <path id="screen-17" data-name="screen" class="cls-15" d="M405.467,27.319h5.6c1.469,0,1.73.992,1.73,2.14,0,2.069,1.3,3.975,4.986,3.975h31.849c3.413,0,4.681-1.975,4.681-4.077,0-1.515.681-2.038,1.73-2.038h5.8c7.767,0,9.361,6.58,9.361,8.969V180c0,5.945-4.1,9.785-9.768,9.785H405.365c-6.669,0-9.463-5.212-9.463-10.7V36.8C395.9,30.9,400.07,27.319,405.467,27.319Z"/>
+      </g>
+      <g id="boring-16" data-name="boring">
+        <path id="Rounded_Rectangle_2-16" data-name="Rounded Rectangle 2" class="cls-16" d="M405.4,45.969h14.4a4.8,4.8,0,0,1,4.8,4.8V65.142a4.8,4.8,0,0,1-4.8,4.8H405.4a4.8,4.8,0,0,1-4.8-4.8V50.769A4.8,4.8,0,0,1,405.4,45.969Z"/>
+        <path id="Rounded_Rectangle_2_copy-16" data-name="Rounded Rectangle 2 copy" class="cls-17" d="M440.6,105.1h20a4.8,4.8,0,0,1,4.8,4.8v19.168a4.8,4.8,0,0,1-4.8,4.8h-20a4.8,4.8,0,0,1-4.8-4.8V109.9A4.8,4.8,0,0,1,440.6,105.1Z"/>
+        <path id="Rounded_Rectangle_2_copy_2-16" data-name="Rounded Rectangle 2 copy 2" class="cls-18" d="M405.4,165.036h56a4.8,4.8,0,0,1,4.8,4.8v7.98a4.8,4.8,0,0,1-4.8,4.8h-56a4.8,4.8,0,0,1-4.8-4.8v-7.98A4.8,4.8,0,0,1,405.4,165.036Z"/>
+        <path id="Rounded_Rectangle_3-16" data-name="Rounded Rectangle 3" class="cls-18" d="M431.8,47.567h32.8a1.6,1.6,0,0,1,0,3.2H431.8A1.6,1.6,0,0,1,431.8,47.567Z"/>
+        <path id="Rounded_Rectangle_3_copy_4-16" data-name="Rounded Rectangle 3 copy 4" class="cls-18" d="M402.2,108.3h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,402.2,108.3Z"/>
+        <path id="Rounded_Rectangle_3_copy_5-16" data-name="Rounded Rectangle 3 copy 5" class="cls-18" d="M402.2,117.888h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,0,1,402.2,117.888Z"/>
+        <path id="Rounded_Rectangle_3_copy_6-16" data-name="Rounded Rectangle 3 copy 6" class="cls-18" d="M402.2,128.277h24a1.6,1.6,0,0,1,0,3.2h-24A1.6,1.6,0,1,1,402.2,128.277Z"/>
+        <path id="Rounded_Rectangle_3_copy-16" data-name="Rounded Rectangle 3 copy" class="cls-18" d="M431.8,56.357h32.8a1.6,1.6,0,0,1,0,3.2H431.8A1.6,1.6,0,0,1,431.8,56.357Z"/>
+        <path id="Rounded_Rectangle_3_copy_2-16" data-name="Rounded Rectangle 3 copy 2" class="cls-18" d="M431.8,65.147h32.8a1.6,1.6,0,0,1,0,3.2H431.8A1.6,1.6,0,0,1,431.8,65.147Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-46" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M402.2,78.732h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,78.732Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-47" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M402.2,87.522h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,87.522Z"/>
+        <path id="Rounded_Rectangle_3_copy_3-48" data-name="Rounded Rectangle 3 copy 3" class="cls-18" d="M402.2,96.313h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,96.313Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-46" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M402.2,138.665h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,138.665Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-47" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M402.2,147.455h62.4a1.6,1.6,0,0,1,0,3.2H402.2A1.6,1.6,0,0,1,402.2,147.455Z"/>
+        <path id="Rounded_Rectangle_3_copy_7-48" data-name="Rounded Rectangle 3 copy 7" class="cls-18" d="M402.2,156.246h62.4a1.6,1.6,0,1,1,0,3.2H402.2A1.6,1.6,0,1,1,402.2,156.246Z"/>
+      </g>
+      <g id="alert-16" data-name="alert">
+        <path id="Rounded_Rectangle_4-16" data-name="Rounded Rectangle 4" class="cls-15" d="M402.2,41.973h61.6a4.8,4.8,0,0,1,4.8,4.8V179.414a4.8,4.8,0,0,1-4.8,4.8H402.2a4.8,4.8,0,0,1-4.8-4.8V46.773A4.8,4.8,0,0,1,402.2,41.973Z"/>
+        <path class="cls-35" d="M451.8,128.277c3.688,0,6.592-2.729,3.2-8.79-3.021-5.4-16.539-29.431-17.6-31.166a5.261,5.261,0,0,0-8.8,0c-1.429,2.346-16.55,29.281-17.6,31.166-2,3.592-2.43,8.79,2.4,8.79h38.4Z"/>
+        <path id="Rounded_Rectangle_5-16" data-name="Rounded Rectangle 5" class="cls-15" d="M431.8,96.313h2.4a1.6,1.6,0,0,1,1.6,1.6v14.381a1.6,1.6,0,0,1-1.6,1.6h-2.4a1.6,1.6,0,0,1-1.6-1.6V97.913A1.6,1.6,0,0,1,431.8,96.313Z"/>
+        <circle class="cls-20" cx="433" cy="119.875" r="3.594"/>
+      </g>
+    </g>
+  </g>
+  <g id="dots">
+    <g id="a">
+      <circle class="cls-36" cx="746.906" cy="745.36" r="5.5"/>
+      <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-36" cx="767.031" cy="750.938" r="5.5"/>
+      <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-36" cx="785.204" cy="758.546" r="5.484"/>
+      <circle id="Ellipse_1_copy_3" data-name="Ellipse 1 copy 3" class="cls-36" cx="801.438" cy="769.204" r="5.5"/>
+      <circle id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-36" cx="816.719" cy="782.875" r="5.5"/>
+      <circle id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-36" cx="830.094" cy="798.64" r="5.5"/>
+      <circle id="Ellipse_1_copy_14" data-name="Ellipse 1 copy 14" class="cls-36" cx="843.094" cy="816.64" r="5.5"/>
+    </g>
+    <g id="b">
+      <circle id="Ellipse_1_copy_6" data-name="Ellipse 1 copy 6" class="cls-36" cx="753.125" cy="657.281" r="5.5"/>
+      <circle id="Ellipse_1_copy_7" data-name="Ellipse 1 copy 7" class="cls-36" cx="773.062" cy="657.688" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-2" data-name="Ellipse 1 copy 6" class="cls-36" cx="794.156" cy="658.938" r="5.5"/>
+      <circle id="Ellipse_1_copy_8" data-name="Ellipse 1 copy 8" class="cls-36" cx="814.062" cy="662.5" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-3" data-name="Ellipse 1 copy 6" class="cls-36" cx="834.156" cy="667.375" r="5.5"/>
+      <circle id="Ellipse_1_copy_9" data-name="Ellipse 1 copy 9" class="cls-36" cx="854.062" cy="674.094" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-4" data-name="Ellipse 1 copy 6" class="cls-36" cx="874.656" cy="682.906" r="5.5"/>
+      <circle id="Ellipse_1_copy_10" data-name="Ellipse 1 copy 10" class="cls-36" cx="893.594" cy="692.469" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-5" data-name="Ellipse 1 copy 6" class="cls-36" cx="910.906" cy="703.469" r="5.5"/>
+      <circle id="Ellipse_1_copy_11" data-name="Ellipse 1 copy 11" class="cls-36" cx="926.688" cy="716.188" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-6" data-name="Ellipse 1 copy 6" class="cls-36" cx="940.625" cy="730.844" r="5.5"/>
+    </g>
+    <g id="c">
+      <circle id="Ellipse_1_copy_6-7" data-name="Ellipse 1 copy 6" class="cls-36" cx="754.906" cy="543.656" r="5.5"/>
+      <circle id="Ellipse_1_copy_7-2" data-name="Ellipse 1 copy 7" class="cls-36" cx="773.906" cy="537.656" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-8" data-name="Ellipse 1 copy 6" class="cls-36" cx="794.296" cy="532.094" r="5.484"/>
+      <circle id="Ellipse_1_copy_8-2" data-name="Ellipse 1 copy 8" class="cls-36" cx="814.296" cy="529.094" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-9" data-name="Ellipse 1 copy 6" class="cls-36" cx="834.906" cy="527.265" r="5.5"/>
+      <circle id="Ellipse_1_copy_9-2" data-name="Ellipse 1 copy 9" class="cls-36" cx="855.906" cy="527.265" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-10" data-name="Ellipse 1 copy 6" class="cls-36" cx="878.25" cy="529.031" r="5.5"/>
+      <circle id="Ellipse_1_copy_10-2" data-name="Ellipse 1 copy 10" class="cls-36" cx="899.25" cy="532.031" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-11" data-name="Ellipse 1 copy 6" class="cls-36" cx="919.172" cy="536.906" r="5.484"/>
+      <circle id="Ellipse_1_copy_11-2" data-name="Ellipse 1 copy 11" class="cls-36" cx="938.172" cy="543.906" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-12" data-name="Ellipse 1 copy 6" class="cls-36" cx="956.094" cy="553.344" r="5.5"/>
+    </g>
+    <g id="d">
+      <circle id="Ellipse_1_copy_6-13" data-name="Ellipse 1 copy 6" class="cls-36" cx="751.094" cy="436.281" r="5.5"/>
+      <circle id="Ellipse_1_copy_7-3" data-name="Ellipse 1 copy 7" class="cls-36" cx="766.875" cy="424.094" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-14" data-name="Ellipse 1 copy 6" class="cls-36" cx="784.094" cy="411.844" r="5.5"/>
+      <circle id="Ellipse_1_copy_8-3" data-name="Ellipse 1 copy 8" class="cls-36" cx="801.812" cy="402.125" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-15" data-name="Ellipse 1 copy 6" class="cls-36" cx="820.531" cy="393.312" r="5.5"/>
+      <circle id="Ellipse_1_copy_9-3" data-name="Ellipse 1 copy 9" class="cls-36" cx="840.25" cy="386.062" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-16" data-name="Ellipse 1 copy 6" class="cls-36" cx="861.812" cy="380.031" r="5.5"/>
+      <circle id="Ellipse_1_copy_10-3" data-name="Ellipse 1 copy 10" class="cls-36" cx="882.562" cy="375.594" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-17" data-name="Ellipse 1 copy 6" class="cls-36" cx="902.969" cy="373.281" r="5.5"/>
+      <circle id="Ellipse_1_copy_11-3" data-name="Ellipse 1 copy 11" class="cls-36" cx="923.219" cy="373.312" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-18" data-name="Ellipse 1 copy 6" class="cls-36" cx="943.281" cy="376" r="5.5"/>
+    </g>
+    <g id="e">
+      <circle class="cls-36" cx="737.312" cy="334.078" r="5.5"/>
+      <circle id="Ellipse_1_copy-2" data-name="Ellipse 1 copy" class="cls-36" cx="750.14" cy="317.438" r="5.485"/>
+      <circle id="Ellipse_1_copy_2-2" data-name="Ellipse 1 copy 2" class="cls-36" cx="765.954" cy="302.438" r="5.484"/>
+      <circle id="Ellipse_1_copy_3-2" data-name="Ellipse 1 copy 3" class="cls-36" cx="785.64" cy="291.531" r="5.485"/>
+      <circle id="Ellipse_1_copy_4-2" data-name="Ellipse 1 copy 4" class="cls-36" cx="808.64" cy="282.781" r="5.485"/>
+      <circle id="Ellipse_1_copy_5-2" data-name="Ellipse 1 copy 5" class="cls-36" cx="830.688" cy="277.922" r="5.5"/>
+    </g>
+    <g id="f">
+      <circle class="cls-36" cx="655.204" cy="317.735" r="5.484"/>
+      <circle id="Ellipse_1_copy-3" data-name="Ellipse 1 copy" class="cls-36" cx="661.344" cy="297.64" r="5.5"/>
+      <circle id="Ellipse_1_copy_2-3" data-name="Ellipse 1 copy 2" class="cls-36" cx="670.86" cy="278.047" r="5.485"/>
+      <circle id="Ellipse_1_copy_3-3" data-name="Ellipse 1 copy 3" class="cls-36" cx="683.454" cy="259.89" r="5.484"/>
+      <circle id="Ellipse_1_copy_4-3" data-name="Ellipse 1 copy 4" class="cls-36" cx="696.89" cy="241.578" r="5.485"/>
+      <circle id="Ellipse_1_copy_5-3" data-name="Ellipse 1 copy 5" class="cls-36" cx="711.796" cy="226.266" r="5.484"/>
+      <circle id="Ellipse_1_copy_12" data-name="Ellipse 1 copy 12" class="cls-36" cx="727.796" cy="213.266" r="5.484"/>
+    </g>
+    <g id="g">
+      <circle class="cls-36" cx="582.188" cy="316.031" r="5.5"/>
+      <circle id="Ellipse_1_copy-4" data-name="Ellipse 1 copy" class="cls-36" cx="576.812" cy="295.688" r="5.5"/>
+      <circle id="Ellipse_1_copy_2-4" data-name="Ellipse 1 copy 2" class="cls-36" cx="574.562" cy="274.031" r="5.5"/>
+      <circle id="Ellipse_1_copy_3-4" data-name="Ellipse 1 copy 3" class="cls-36" cx="575.688" cy="251.969" r="5.5"/>
+      <circle id="Ellipse_1_copy_4-4" data-name="Ellipse 1 copy 4" class="cls-36" cx="577.469" cy="229.344" r="5.5"/>
+      <circle id="Ellipse_1_copy_5-4" data-name="Ellipse 1 copy 5" class="cls-36" cx="582.094" cy="208.469" r="5.5"/>
+    </g>
+    <g id="h">
+      <circle id="Ellipse_1_copy-5" data-name="Ellipse 1 copy" class="cls-36" cx="459.812" cy="304.672" r="5.5"/>
+      <circle id="Ellipse_1_copy_20" data-name="Ellipse 1 copy 20" class="cls-36" cx="469.812" cy="321.672" r="5.5"/>
+      <circle id="Ellipse_1_copy_2-5" data-name="Ellipse 1 copy 2" class="cls-36" cx="451.25" cy="284.656" r="5.5"/>
+      <circle id="Ellipse_1_copy_3-5" data-name="Ellipse 1 copy 3" class="cls-36" cx="445.781" cy="263.25" r="5.5"/>
+      <circle id="Ellipse_1_copy_4-5" data-name="Ellipse 1 copy 4" class="cls-36" cx="440.765" cy="241.109" r="5.484"/>
+      <circle id="Ellipse_1_copy_5-5" data-name="Ellipse 1 copy 5" class="cls-36" cx="438.969" cy="219.797" r="5.5"/>
+    </g>
+    <g id="i">
+      <circle id="Ellipse_1_copy-6" data-name="Ellipse 1 copy" class="cls-36" cx="430.703" cy="368.515" r="5.516"/>
+      <circle id="Ellipse_1_copy_19" data-name="Ellipse 1 copy 19" class="cls-36" cx="447.703" cy="376.515" r="5.516"/>
+      <circle id="Ellipse_1_copy_2-6" data-name="Ellipse 1 copy 2" class="cls-36" cx="412.078" cy="357.203" r="5.516"/>
+      <circle id="Ellipse_1_copy_3-6" data-name="Ellipse 1 copy 3" class="cls-36" cx="395.156" cy="343" r="5.531"/>
+      <circle id="Ellipse_1_copy_4-6" data-name="Ellipse 1 copy 4" class="cls-36" cx="378.188" cy="327.922" r="5.531"/>
+      <circle id="Ellipse_1_copy_5-6" data-name="Ellipse 1 copy 5" class="cls-36" cx="364.328" cy="311.64" r="5.516"/>
+      <circle id="Ellipse_1_copy_12-2" data-name="Ellipse 1 copy 12" class="cls-36" cx="352.86" cy="294.515" r="5.516"/>
+    </g>
+    <g id="j">
+      <circle id="Ellipse_1_copy_6-19" data-name="Ellipse 1 copy 6" class="cls-36" cx="445.36" cy="471.703" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-20" data-name="Ellipse 1 copy 6" class="cls-36" cx="404.36" cy="473.39" r="5.484"/>
+      <circle id="Ellipse_1_copy_18" data-name="Ellipse 1 copy 18" class="cls-36" cx="425.36" cy="473.39" r="5.484"/>
+      <circle id="Ellipse_1_copy_8-4" data-name="Ellipse 1 copy 8" class="cls-36" cx="384.235" cy="471.453" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-21" data-name="Ellipse 1 copy 6" class="cls-36" cx="363.781" cy="468.25" r="5.5"/>
+      <circle id="Ellipse_1_copy_9-4" data-name="Ellipse 1 copy 9" class="cls-36" cx="343.406" cy="463.156" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-22" data-name="Ellipse 1 copy 6" class="cls-36" cx="322.172" cy="456.047" r="5.484"/>
+      <circle id="Ellipse_1_copy_10-4" data-name="Ellipse 1 copy 10" class="cls-36" cx="302.515" cy="448.047" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-23" data-name="Ellipse 1 copy 6" class="cls-36" cx="284.36" cy="438.5" r="5.484"/>
+      <circle id="Ellipse_1_copy_11-4" data-name="Ellipse 1 copy 11" class="cls-36" cx="267.61" cy="427.11" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-24" data-name="Ellipse 1 copy 6" class="cls-36" cx="252.531" cy="413.61" r="5.5"/>
+      <circle id="Ellipse_1_copy_13" data-name="Ellipse 1 copy 13" class="cls-36" cx="237.531" cy="396.61" r="5.5"/>
+    </g>
+    <g id="k">
+      <circle id="Ellipse_1_copy_7-4" data-name="Ellipse 1 copy 7" class="cls-36" cx="423.735" cy="589.906" r="5.484"/>
+      <circle id="Ellipse_1_copy_16" data-name="Ellipse 1 copy 16" class="cls-36" cx="442.735" cy="580.906" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-25" data-name="Ellipse 1 copy 6" class="cls-36" cx="403.594" cy="596.25" r="5.5"/>
+      <circle id="Ellipse_1_copy_8-5" data-name="Ellipse 1 copy 8" class="cls-36" cx="383.719" cy="600.031" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-26" data-name="Ellipse 1 copy 6" class="cls-36" cx="363.188" cy="602.656" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-27" data-name="Ellipse 1 copy 6" class="cls-36" cx="319.828" cy="602.594" r="5.484"/>
+      <circle id="Ellipse_1_copy_17" data-name="Ellipse 1 copy 17" class="cls-36" cx="341.828" cy="603.594" r="5.484"/>
+      <circle id="Ellipse_1_copy_10-5" data-name="Ellipse 1 copy 10" class="cls-36" cx="298.719" cy="600.422" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-28" data-name="Ellipse 1 copy 6" class="cls-36" cx="278.625" cy="596.344" r="5.5"/>
+      <circle id="Ellipse_1_copy_11-5" data-name="Ellipse 1 copy 11" class="cls-36" cx="259.36" cy="590.094" r="5.484"/>
+      <circle id="Ellipse_1_copy_6-29" data-name="Ellipse 1 copy 6" class="cls-36" cx="241.094" cy="581.344" r="5.5"/>
+      <circle id="Ellipse_1_copy_13-2" data-name="Ellipse 1 copy 13" class="cls-36" cx="221.938" cy="569.219" r="5.5"/>
+    </g>
+    <g id="l">
+      <circle id="Ellipse_1_copy_6-30" data-name="Ellipse 1 copy 6" class="cls-36" cx="442.156" cy="689.5" r="5.5"/>
+      <circle id="Ellipse_1_copy_7-5" data-name="Ellipse 1 copy 7" class="cls-36" cx="426.094" cy="701.344" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-31" data-name="Ellipse 1 copy 6" class="cls-36" cx="408.625" cy="713.172" r="5.5"/>
+      <circle id="Ellipse_1_copy_8-6" data-name="Ellipse 1 copy 8" class="cls-36" cx="390.656" cy="722.469" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-32" data-name="Ellipse 1 copy 6" class="cls-36" cx="371.75" cy="730.875" r="5.5"/>
+      <circle id="Ellipse_1_copy_9-5" data-name="Ellipse 1 copy 9" class="cls-36" cx="351.875" cy="737.656" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-33" data-name="Ellipse 1 copy 6" class="cls-36" cx="330.156" cy="743.204" r="5.5"/>
+      <circle id="Ellipse_1_copy_10-6" data-name="Ellipse 1 copy 10" class="cls-36" cx="309.312" cy="747.156" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-34" data-name="Ellipse 1 copy 6" class="cls-36" cx="288.875" cy="748.985" r="5.5"/>
+      <circle id="Ellipse_1_copy_11-6" data-name="Ellipse 1 copy 11" class="cls-36" cx="268.625" cy="748.5" r="5.5"/>
+      <circle id="Ellipse_1_copy_6-35" data-name="Ellipse 1 copy 6" class="cls-36" cx="248.625" cy="745.344" r="5.5"/>
+    </g>
+    <g id="m">
+      <circle class="cls-36" cx="462.703" cy="794.531" r="5.484"/>
+      <circle id="Ellipse_1_copy-7" data-name="Ellipse 1 copy" class="cls-36" cx="446.938" cy="808.422" r="5.5"/>
+      <circle id="Ellipse_1_copy_2-7" data-name="Ellipse 1 copy 2" class="cls-36" cx="428.562" cy="820.125" r="5.5"/>
+      <circle id="Ellipse_1_copy_3-7" data-name="Ellipse 1 copy 3" class="cls-36" cx="408.344" cy="829" r="5.5"/>
+      <circle id="Ellipse_1_copy_4-7" data-name="Ellipse 1 copy 4" class="cls-36" cx="387.312" cy="837.531" r="5.5"/>
+      <circle id="Ellipse_1_copy_5-7" data-name="Ellipse 1 copy 5" class="cls-36" cx="366.562" cy="842.75" r="5.5"/>
+    </g>
+    <g id="n">
+      <circle class="cls-36" cx="544.75" cy="807.407" r="5.5"/>
+      <circle id="Ellipse_1_copy-8" data-name="Ellipse 1 copy" class="cls-36" cx="538.235" cy="827.39" r="5.485"/>
+      <circle id="Ellipse_1_copy_2-8" data-name="Ellipse 1 copy 2" class="cls-36" cx="528.375" cy="846.812" r="5.5"/>
+      <circle id="Ellipse_1_copy_4-8" data-name="Ellipse 1 copy 4" class="cls-36" cx="501.719" cy="882.813" r="5.469"/>
+      <circle id="Ellipse_1_copy_15" data-name="Ellipse 1 copy 15" class="cls-36" cx="516.719" cy="864.813" r="5.469"/>
+      <circle id="Ellipse_1_copy_5-8" data-name="Ellipse 1 copy 5" class="cls-36" cx="486.547" cy="897.86" r="5.484"/>
+    </g>
+    <g id="o">
+      <circle class="cls-36" cx="614.14" cy="806.89" r="5.485"/>
+      <circle id="Ellipse_1_copy-9" data-name="Ellipse 1 copy" class="cls-36" cx="620.046" cy="827.062" r="5.484"/>
+      <circle id="Ellipse_1_copy_2-9" data-name="Ellipse 1 copy 2" class="cls-36" cx="622.875" cy="848.656" r="5.5"/>
+      <circle id="Ellipse_1_copy_3-8" data-name="Ellipse 1 copy 3" class="cls-36" cx="622.344" cy="870.735" r="5.5"/>
+      <circle id="Ellipse_1_copy_4-9" data-name="Ellipse 1 copy 4" class="cls-36" cx="621.172" cy="893.422" r="5.484"/>
+      <circle id="Ellipse_1_copy_5-9" data-name="Ellipse 1 copy 5" class="cls-36" cx="617.11" cy="914.406" r="5.485"/>
+    </g>
+    <g id="p">
+      <circle class="cls-36" cx="687.438" cy="805.594" r="5.5"/>
+      <circle id="Ellipse_1_copy-10" data-name="Ellipse 1 copy" class="cls-36" cx="701.781" cy="820.954" r="5.5"/>
+      <circle id="Ellipse_1_copy_2-10" data-name="Ellipse 1 copy 2" class="cls-36" cx="714.015" cy="838.985" r="5.515"/>
+      <circle id="Ellipse_1_copy_3-9" data-name="Ellipse 1 copy 3" class="cls-36" cx="723.469" cy="858.938" r="5.5"/>
+      <circle id="Ellipse_1_copy_4-10" data-name="Ellipse 1 copy 4" class="cls-36" cx="732.61" cy="879.719" r="5.515"/>
+      <circle id="Ellipse_1_copy_5-10" data-name="Ellipse 1 copy 5" class="cls-36" cx="738.438" cy="900.296" r="5.5"/>
+    </g>
+  </g>
+</svg>

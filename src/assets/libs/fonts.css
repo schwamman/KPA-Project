@@ -1,0 +1,37 @@
+/* gibson-extra-light (doesnt exist, so we use open sans) */
+@font-face {
+  font-family: 'Gibson';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 100;
+  src: url(/public/fonts/Heebo-Thin.woff2) format('woff2');
+}
+/* gibson-light */
+@font-face {
+  font-family: 'Gibson';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 200;
+  src: url(/public/fonts/Gibson-Light.woff2) format('woff2');
+}
+/* gibson-regular */
+@font-face {
+  font-family: 'Gibson';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+  src: url(/public/fonts/Gibson-Regular.woff2) format('woff2');
+}
+/* gibson-semibold */
+@font-face {
+  font-family: 'Gibson';
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+  src: url(/public/fonts/Gibson-Semibold.woff2) format('woff2');
+}
+
+body {
+  font-family: Gibson,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+  letter-spacing: 0.05rem;
+}

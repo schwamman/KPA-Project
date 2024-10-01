@@ -1,0 +1,43 @@
+
+
+.help-body {
+
+  .quote, blockquote {
+    margin: 0 3vw;
+  }
+
+  pre.wp-block-verse {
+    white-space: pre-wrap;
+  }
+
+  figure {
+    margin:5vh 0;
+    text-align: center;
+    display: block;
+
+    img {
+      max-width:600px;
+    }
+  }
+
+  p {
+    font-size:calc(0.9rem + 0.35vw);
+    color:#333;
+    letter-spacing: normal;
+  }
+
+  iframe.wp-embedded-content {
+    min-height: 600px;
+    width: 100%;
+  }
+
+  .wp-block-embed-youtube {
+    .wp-block-embed__wrapper {
+      iframe {
+        min-height: 600px;
+        width: 100%;
+      }
+    }
+  }
+}
+
