@@ -35,6 +35,8 @@
           w-full
           p-1
           border rounded-lg
+          outline-none
+          focus:border-blue-500
         "
         placeholder="Type to search..."
       />
