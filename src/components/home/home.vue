@@ -26,7 +26,7 @@
       </div>
     </div>
 
-    <div class="mt-4">
+    <div class="mt-4 flex items-center justify-center gap-2">
       <input
         type="search"
         name="kpa-product-search"
@@ -40,6 +40,25 @@
         "
         placeholder="Type to search..."
       />
+
+      <select
+        class="
+          w-full
+          p-1
+          border rounded-lg
+          outline-none
+          focus:border-blue-500
+        "
+        v-model="searchCategory"
+      >
+        <option value="">Select a category</option>
+        <option
+          v-for="c in categories"
+          :key="c"
+        >
+          {{ c }}
+        </option>
+      </select>
     </div>
 
     <table
@@ -131,10 +150,30 @@
 import {ref, computed} from 'vue';
 import products from './products.json';
 const search = ref('');
+const searchCategory = ref('');
 const filteredProduct = computed(() => {
   const rgx = new RegExp(search.value, 'i');
+  const category = searchCategory.value;
   return products.filter(p => {
-    return rgx.test(p.name);
-  });
+    const nameMatch = !p.name.trim() || rgx.test(p.name);
+    const categoryMatch = !category || p.category === category;
+    return (
+      nameMatch
+      && categoryMatch
+    );
+  }).sort((a, b) => b.score - a.score);
+});
+const cap = (src) => {
+  return src[0].toUpperCase() + src.slice(1)
+};
+const categories = computed(() => {
+  const c = new Set();
+  products.forEach(p => {
+    // let title = p.category.split(' ');
+    // title = title.map(cap);
+    // title = title.join(' ');
+    c.add(p.category);
+  })
+  return Array.from(c);
 });
 </script>
