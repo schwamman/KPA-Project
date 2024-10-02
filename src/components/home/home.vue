@@ -54,9 +54,10 @@
         <option value="">Select a category</option>
         <option
           v-for="c in categories"
-          :key="c"
+          :key="c.value"
+          :value="c.value"
         >
-          {{ c }}
+          {{ c.title }}
         </option>
       </select>
     </div>
@@ -77,7 +78,8 @@
           <th class="p-2">Vendor</th>
           <th class="p-2">Image</th>
           <th class="p-2">Score</th>
-          <th class="p-2">Detail</th>
+          <th class="p-2">Score Details</th>
+          <th class="p-2">Category</th>
           <th class="p-2">Description</th>
         </tr>
       </thead>
@@ -134,6 +136,9 @@
               </tr>
             </table>
           </td>
+          <td class="p-2 text-ellipsis h-4 capitalize">
+            {{ product.category }}
+          </td>
           <td class="p-2 text-ellipsis h-4">
             {{ product.description }}
           </td>
@@ -154,6 +159,7 @@ const searchCategory = ref('');
 const filteredProduct = computed(() => {
   const rgx = new RegExp(search.value, 'i');
   const category = searchCategory.value;
+  console.log('category :>> ', category);
   return products.filter(p => {
     const nameMatch = !p.name.trim() || rgx.test(p.name);
     const categoryMatch = !category || p.category === category;
@@ -168,12 +174,21 @@ const cap = (src) => {
 };
 const categories = computed(() => {
   const c = new Set();
+  const categories = [];
   products.forEach(p => {
-    // let title = p.category.split(' ');
-    // title = title.map(cap);
-    // title = title.join(' ');
+    if (c.has(p.category)) {
+      return;
+    }
     c.add(p.category);
+
+    let title = p.category.split(' ');
+    title = title.map(cap);
+    title = title.join(' ');
+    categories.push({
+      title,
+      value: p.category,
+    });
   })
-  return Array.from(c);
+  return categories;
 });
 </script>
