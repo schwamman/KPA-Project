@@ -57,12 +57,13 @@
           <th class="p-2">Image</th>
           <th class="p-2">Score</th>
           <th class="p-2">Detail</th>
+          <th class="p-2">Description</th>
         </tr>
       </thead>
       <tbody class="text-left">
         <tr
           class="table-row"
-          v-for="product in products"
+          v-for="product in filteredProduct"
           :key="product.id || product.name"
         >
           <td class="p-2">
@@ -71,6 +72,7 @@
               class="
                 bg-green-300
                 text-green-900
+                border border-green-500
                 px-2 py-1
                 w-full
                 cursor-pointer
@@ -111,6 +113,9 @@
               </tr>
             </table>
           </td>
+          <td class="p-2 text-ellipsis h-4">
+            {{ product.description }}
+          </td>
         </tr>
       </tbody>
     </table>
@@ -121,7 +126,13 @@
 </template>
 
 <script setup>
-import {ref} from 'vue';
+import {ref, computed} from 'vue';
 import products from './products.json';
 const search = ref('');
+const filteredProduct = computed(() => {
+  const rgx = new RegExp(search.value, 'i');
+  return products.filter(p => {
+    return rgx.test(p.name);
+  });
+});
 </script>
