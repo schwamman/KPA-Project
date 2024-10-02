@@ -16,7 +16,10 @@
               </a>
             </div> -->
             <a class="cart" href="/account">
-              <span class="text-white text-md rounded-md bg-green-500 p-2">236 Pts</span>
+              <span class="text-white text-md rounded-md bg-green-500 p-2
+                shadow-sm text-3xl hover:shadow-lg
+                -mt-4
+              ">236 Pts</span>
             </a>
           </li>
         </ul>

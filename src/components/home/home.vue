@@ -49,10 +49,11 @@
           class="text-left"
         >
           <!-- id -->
+          <th class=""></th>
           <th class="p-2">Name</th>
-          <th class="p-2">Vendor</th>
-          <th class="p-2">Image</th>
           <th class="p-2">Score</th>
+          <th class="p-2">Image</th>
+          <th class="p-2">Vendor</th>
           <th class="p-2">Score Details</th>
           <th class="p-2">Category</th>
           <th class="p-2">Description</th>
@@ -82,15 +83,15 @@
           </td>
           <td class="p-2">{{product.name}}</td>
           <td class="p-2">
+            {{ product.score }}
+          </td>
+          <td class="p-2">
             <img
               class="w-16"
               :src="product.image"
               onerror="this.src = 'https://media.istockphoto.com/id/1271880340/vector/lost-items-line-vector-icon-unidentified-items-outline-isolated-icon.jpg?s=612x612&w=0&k=20&c=d2kHGEmowThp_UrqIPfhxibstH6Sq5yDZJ41NetzVaA='"
               loading="lazy"
             />
-          </td>
-          <td class="p-2">
-            {{ product.score }}
           </td>
           <td class="p-2">
             <table class="text-xs w-full">
