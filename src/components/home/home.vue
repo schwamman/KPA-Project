@@ -1,31 +1,6 @@
 
 <template>
   <div class="p-12">
-    <h1 class="text-4xl">Smart Living 🌎</h1>
-
-    <div
-      class="
-        mt-4
-        border rounded-md
-        p-4
-        text-left
-        w-fit
-        shadow-sm
-        hover:shadow-md
-        cursor-pointer
-      "
-    >
-      <div class="text-green-500">
-        Your Score is
-      </div>
-      <div class="
-        text-green-500
-        font-bold text-7xl
-      ">
-        236!
-      </div>
-    </div>
-
     <div class="mt-4">
       <input
         type="search"

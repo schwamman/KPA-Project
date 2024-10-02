@@ -177,6 +177,12 @@
   height:70px;
 }
 
+.bottom-right {
+  position: absolute;
+  right: 12px;
+  top: 48px;
+}
+
 @keyframes fixed-in {
   0% { transform:translateY(-100%); }
   100% { transform:translateY(0%); }

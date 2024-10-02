@@ -10,6 +10,7 @@ import Nav from 'src/components/nav/nav.vue'
                 transition='fade'
                 class="router-view"
   >
+    <Nav />
     <transition
       mode="in-out"
       appear
