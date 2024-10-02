@@ -9,7 +9,7 @@
   },
   "scripts": {
     "predev": "npm run build",
-    "dev": "nodemon server/index.mjs",
+    "dev": "vite",
     "vdev": "vite",
     "build": "vite build",
     "reimg": "docker build -t kpa-www:latest .",
@@ -33,7 +33,10 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
+    "autoprefixer": "10.4.20",
     "nodemon": "3.1.4",
+    "postcss": "8.4.47",
+    "tailwindcss": "3.4.13",
     "vite": "^5.3.1"
   }
 }
