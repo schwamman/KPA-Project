@@ -5,6 +5,7 @@ import { createApp } from 'vue'
 // import './assets/libs/layout.css'
 // import './assets/libs/body-copy.css'
 import App from './App.vue'
+import '../node_modules/flowbite-vue/dist/index.css'
 
 import { createRouter, createWebHistory } from 'vue-router';
 import routes from './routes';

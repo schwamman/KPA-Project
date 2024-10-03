@@ -26,7 +26,7 @@
         "
         v-model="searchCategory"
       >
-        <option value="">Select a category</option>
+        <option value="">Select a category </option>
         <option
           v-for="c in categories"
           :key="c.value"
@@ -36,6 +36,12 @@
         </option>
       </select>
     </div>
+    <div class="flex items-center justify-center text-center">
+      <fwb-pagination v-model="currentPage" :totalPages="totalPages">
+      </fwb-pagination>
+      Total: {{ totalItems }}
+    </div> 
+      
 
     <table
       class="
@@ -62,8 +68,9 @@
       <tbody class="text-left">
         <tr
           class="table-row"
-          v-for="product in filteredProduct"
+          v-for="product in currentPageProducts"
           :key="product.id || product.name"
+
         >
           <td class="p-2">
             <button
@@ -80,6 +87,9 @@
             >
               Grab
             </button>
+
+      
+
           </td>
           <td class="p-2">{{product.name}}</td>
           <td class="p-2">
@@ -130,9 +140,16 @@
 <script setup>
 import {ref, computed} from 'vue';
 import products from './products.json';
+import { FwbPagination } from 'flowbite-vue'
+
+const itemsPerPage = ref(25); // Number of items per page
+const currentPage = ref(1); // Current page
+
 const search = ref('');
 const searchCategory = ref('');
-const filteredProduct = computed(() => {
+
+// Filtered Products
+const filteredProducts = computed(() => {
   const rgx = new RegExp(search.value, 'i');
   const category = searchCategory.value;
   console.log('category :>> ', category);
@@ -145,6 +162,18 @@ const filteredProduct = computed(() => {
     );
   }).sort((a, b) => b.score - a.score);
 });
+
+// Total items
+const totalItems = filteredProducts.value.length;
+const totalPages = Math.ceil(filteredProducts.value.length / itemsPerPage.value);
+
+
+const currentPageProducts = computed(() => {
+  const start = (currentPage.value - 1) * itemsPerPage.value;
+  const end = start + itemsPerPage.value;
+  return filteredProducts.value.slice(start, end);
+});
+
 const cap = (src) => {
   return src[0].toUpperCase() + src.slice(1)
 };
