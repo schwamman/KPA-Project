@@ -15,7 +15,7 @@
                 <span class="bottom-right text-white text-sm rounded-md bg-green-500 px-1">236</span>
               </a>
             </div> -->
-            <a class="cart" href="/account">
+            <a class="cart" href="/logout">
               <span style="background-color: #5C5C5C" class="text-white text-md rounded-md py-2 px-4
                 shadow-sm text-xl hover:shadow-lg
                 -mt-4

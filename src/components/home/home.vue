@@ -1,7 +1,10 @@
 
 <template>
   <div class="p-12">
-    <div class="mt-4 flex items-center justify-center gap-2">
+    <div class="
+      mt-4 flex items-center justify-center gap-2
+      flex-row sm:flex-row
+    ">
       <input
         type="search"
         name="kpa-product-search"
@@ -71,7 +74,7 @@
       >
         ▶
       </button>
-    </p> -->
+    </p>  -->
 
     <table
       class="
@@ -92,7 +95,7 @@
           <th class="p-2">Details</th>
           <th class="p-2">Price</th>
           <th class="p-2">Category</th>
-          <th class="p-2">Description</th>
+          <th class="p-2 invisible md:visible">Description</th>
         </tr>
       </thead>
       <tbody class="text-left">
@@ -169,7 +172,10 @@
           <td class="p-2 text-ellipsis h-4 capitalize">
             {{ product.category }}
           </td>
-          <td class="p-2 text-ellipsis h-4 text-sm text-neutral-500">
+          <td class="
+            p-2 text-ellipsis h-4 text-sm text-neutral-500
+            invisible md:visible
+          ">
             {{ product.description }}
           </td>
         </tr>
@@ -177,7 +183,7 @@
     </table>
 
     <div class="flex flex-col items-center justify-center text-center mt-2">
-      <fwb-pagination v-model="currentPage" :totalPages="totalPages">
+      <fwb-pagination v-model="currentPage" :totalPages="totalPages" :per-page="currentPageProducts">
       </fwb-pagination>
       <di>
         Total: {{ totalItems }}
@@ -208,7 +214,7 @@
       >
         ▶
       </button>
-    </p> -->
+    </p>  -->
   </div>
 </template>
 
@@ -249,18 +255,47 @@ const filteredProducts = computed(() => {
   return processed;
 });
 
-// Total items
-const totalItems = filteredProducts.value.length;
-const totalPages = Math.ceil(filteredProducts.value.length / itemsPerPage.value);
 
 watch([search, searchCategory], () => {
   currentPage.value = 1;
 });
+
+const getPaging = () => {
+  watch([search, searchCategory], () => {
+    paging.page = 1;
+  });
+  return reactive({
+    page: ref(1),
+    pages: computed(() => Math.ceil(filteredProducts.value.length/itemsPerPage.value)),
+    left: computed(() => paging.page > 1),
+    right: computed(() => paging.page < paging.pages),
+    description: computed(() => `${paging.page} of ${paging.pages}`),
+    decr: () => {
+      paging.page -= 1;
+      if (paging.page < 1) {
+        paging.page = 1;
+      }
+    },
+    incr: () => {
+      paging.page += 1;
+      if (paging.page > paging.pages) {
+        paging.page = paging.pages;
+      }
+    },
+  });
+}
+const paging = getPaging();
 const currentPageProducts = computed(() => {
   const start = (currentPage.value - 1) * itemsPerPage.value;
   const end = start + itemsPerPage.value;
-  return filteredProducts.value.slice(start, end);
+  return filteredProducts.value.slice(start).slice(0, itemsPerPage.value);
 });
+
+// Total items
+const totalItems = computed(() => filteredProducts.value.length);
+const totalPages = computed(() => paging.pages);
+
+
 
 const cap = (src) => {
   return src[0].toUpperCase() + src.slice(1)
