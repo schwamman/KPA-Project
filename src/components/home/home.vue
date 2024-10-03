@@ -1,7 +1,10 @@
 
 <template>
   <div class="p-12">
-    <div class="mt-4 flex items-center justify-center gap-2">
+    <div class="
+      mt-4 flex items-center justify-center gap-2
+      flex-row sm:flex-row
+    ">
       <input
         type="search"
         name="kpa-product-search"
@@ -92,7 +95,7 @@
           <th class="p-2">Details</th>
           <th class="p-2">Price</th>
           <th class="p-2">Category</th>
-          <th class="p-2">Description</th>
+          <th class="p-2 invisible md:visible">Description</th>
         </tr>
       </thead>
       <tbody class="text-left">
@@ -169,7 +172,10 @@
           <td class="p-2 text-ellipsis h-4 capitalize">
             {{ product.category }}
           </td>
-          <td class="p-2 text-ellipsis h-4 text-sm text-neutral-500">
+          <td class="
+            p-2 text-ellipsis h-4 text-sm text-neutral-500
+            invisible md:visible
+          ">
             {{ product.description }}
           </td>
         </tr>
