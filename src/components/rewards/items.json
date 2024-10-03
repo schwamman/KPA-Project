@@ -1,0 +1,902 @@
+[
+  {
+    "tier": 1,
+    "name": "placeholder product 1",
+    "image": "",
+    "points": 96
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 2",
+    "image": "",
+    "points": 90
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 3",
+    "image": "",
+    "points": 39
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 4",
+    "image": "",
+    "points": 79
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 5",
+    "image": "",
+    "points": 90
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 6",
+    "image": "",
+    "points": 15
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 7",
+    "image": "",
+    "points": 90
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 8",
+    "image": "",
+    "points": 37
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 9",
+    "image": "",
+    "points": 28
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 10",
+    "image": "",
+    "points": 82
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 11",
+    "image": "",
+    "points": 67
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 12",
+    "image": "",
+    "points": 17
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 13",
+    "image": "",
+    "points": 88
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 14",
+    "image": "",
+    "points": 14
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 15",
+    "image": "",
+    "points": 81
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 16",
+    "image": "",
+    "points": 78
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 17",
+    "image": "",
+    "points": 29
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 18",
+    "image": "",
+    "points": 12
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 19",
+    "image": "",
+    "points": 80
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 20",
+    "image": "",
+    "points": 34
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 21",
+    "image": "",
+    "points": 6
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 22",
+    "image": "",
+    "points": 42
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 23",
+    "image": "",
+    "points": 91
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 24",
+    "image": "",
+    "points": 14
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 25",
+    "image": "",
+    "points": 55
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 26",
+    "image": "",
+    "points": 91
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 27",
+    "image": "",
+    "points": 96
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 28",
+    "image": "",
+    "points": 59
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 29",
+    "image": "",
+    "points": 66
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 30",
+    "image": "",
+    "points": 1
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 31",
+    "image": "",
+    "points": 21
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 32",
+    "image": "",
+    "points": 2
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 33",
+    "image": "",
+    "points": 19
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 34",
+    "image": "",
+    "points": 41
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 35",
+    "image": "",
+    "points": 99
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 36",
+    "image": "",
+    "points": 79
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 37",
+    "image": "",
+    "points": 69
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 38",
+    "image": "",
+    "points": 57
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 39",
+    "image": "",
+    "points": 54
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 40",
+    "image": "",
+    "points": 49
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 41",
+    "image": "",
+    "points": 88
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 42",
+    "image": "",
+    "points": 41
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 43",
+    "image": "",
+    "points": 32
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 44",
+    "image": "",
+    "points": 15
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 45",
+    "image": "",
+    "points": 33
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 46",
+    "image": "",
+    "points": 52
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 47",
+    "image": "",
+    "points": 38
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 48",
+    "image": "",
+    "points": 23
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 49",
+    "image": "",
+    "points": 34
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 50",
+    "image": "",
+    "points": 6
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 51",
+    "image": "",
+    "points": 26
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 52",
+    "image": "",
+    "points": 83
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 53",
+    "image": "",
+    "points": 65
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 54",
+    "image": "",
+    "points": 17
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 55",
+    "image": "",
+    "points": 97
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 56",
+    "image": "",
+    "points": 82
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 57",
+    "image": "",
+    "points": 6
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 58",
+    "image": "",
+    "points": 38
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 59",
+    "image": "",
+    "points": 27
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 60",
+    "image": "",
+    "points": 20
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 61",
+    "image": "",
+    "points": 45
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 62",
+    "image": "",
+    "points": 98
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 63",
+    "image": "",
+    "points": 86
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 64",
+    "image": "",
+    "points": 32
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 65",
+    "image": "",
+    "points": 45
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 66",
+    "image": "",
+    "points": 50
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 67",
+    "image": "",
+    "points": 38
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 68",
+    "image": "",
+    "points": 37
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 69",
+    "image": "",
+    "points": 89
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 70",
+    "image": "",
+    "points": 18
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 71",
+    "image": "",
+    "points": 95
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 72",
+    "image": "",
+    "points": 96
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 73",
+    "image": "",
+    "points": 27
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 74",
+    "image": "",
+    "points": 55
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 75",
+    "image": "",
+    "points": 91
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 76",
+    "image": "",
+    "points": 48
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 77",
+    "image": "",
+    "points": 39
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 78",
+    "image": "",
+    "points": 12
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 79",
+    "image": "",
+    "points": 8
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 80",
+    "image": "",
+    "points": 17
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 81",
+    "image": "",
+    "points": 20
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 82",
+    "image": "",
+    "points": 94
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 83",
+    "image": "",
+    "points": 37
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 84",
+    "image": "",
+    "points": 66
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 85",
+    "image": "",
+    "points": 83
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 86",
+    "image": "",
+    "points": 80
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 87",
+    "image": "",
+    "points": 5
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 88",
+    "image": "",
+    "points": 9
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 89",
+    "image": "",
+    "points": 58
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 90",
+    "image": "",
+    "points": 44
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 91",
+    "image": "",
+    "points": 33
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 92",
+    "image": "",
+    "points": 71
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 93",
+    "image": "",
+    "points": 70
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 94",
+    "image": "",
+    "points": 35
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 95",
+    "image": "",
+    "points": 9
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 96",
+    "image": "",
+    "points": 69
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 97",
+    "image": "",
+    "points": 30
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 98",
+    "image": "",
+    "points": 21
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 99",
+    "image": "",
+    "points": 63
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 100",
+    "image": "",
+    "points": 36
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 101",
+    "image": "",
+    "points": 67
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 102",
+    "image": "",
+    "points": 54
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 103",
+    "image": "",
+    "points": 26
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 104",
+    "image": "",
+    "points": 96
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 105",
+    "image": "",
+    "points": 64
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 106",
+    "image": "",
+    "points": 58
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 107",
+    "image": "",
+    "points": 20
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 108",
+    "image": "",
+    "points": 54
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 109",
+    "image": "",
+    "points": 12
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 110",
+    "image": "",
+    "points": 53
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 111",
+    "image": "",
+    "points": 70
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 112",
+    "image": "",
+    "points": 98
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 113",
+    "image": "",
+    "points": 12
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 114",
+    "image": "",
+    "points": 94
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 115",
+    "image": "",
+    "points": 37
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 116",
+    "image": "",
+    "points": 28
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 117",
+    "image": "",
+    "points": 86
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 118",
+    "image": "",
+    "points": 14
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 119",
+    "image": "",
+    "points": 93
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 120",
+    "image": "",
+    "points": 85
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 121",
+    "image": "",
+    "points": 76
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 122",
+    "image": "",
+    "points": 72
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 123",
+    "image": "",
+    "points": 99
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 124",
+    "image": "",
+    "points": 39
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 125",
+    "image": "",
+    "points": 75
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 126",
+    "image": "",
+    "points": 82
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 127",
+    "image": "",
+    "points": 49
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 128",
+    "image": "",
+    "points": 29
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 129",
+    "image": "",
+    "points": 56
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 130",
+    "image": "",
+    "points": 0
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 131",
+    "image": "",
+    "points": 59
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 132",
+    "image": "",
+    "points": 84
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 133",
+    "image": "",
+    "points": 55
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 134",
+    "image": "",
+    "points": 55
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 135",
+    "image": "",
+    "points": 96
+  },
+  {
+    "tier": 1,
+    "name": "placeholder product 136",
+    "image": "",
+    "points": 40
+  },
+  {
+    "tier": 2,
+    "name": "placeholder product 137",
+    "image": "",
+    "points": 6
+  },
+  {
+    "tier": 3,
+    "name": "placeholder product 138",
+    "image": "",
+    "points": 89
+  },
+  {
+    "tier": 4,
+    "name": "placeholder product 139",
+    "image": "",
+    "points": 47
+  },
+  {
+    "tier": 5,
+    "name": "placeholder product 140",
+    "image": "",
+    "points": 11
+  },
+  {
+    "tier": 6,
+    "name": "placeholder product 141",
+    "image": "",
+    "points": 24
+  },
+  {
+    "tier": 7,
+    "name": "placeholder product 142",
+    "image": "",
+    "points": 62
+  },
+  {
+    "tier": 8,
+    "name": "placeholder product 143",
+    "image": "",
+    "points": 4
+  },
+  {
+    "tier": 9,
+    "name": "placeholder product 144",
+    "image": "",
+    "points": 16
+  },
+  {
+    "tier": 10,
+    "name": "placeholder product 145",
+    "image": "",
+    "points": 64
+  },
+  {
+    "tier": 11,
+    "name": "placeholder product 146",
+    "image": "",
+    "points": 74
+  },
+  {
+    "tier": 12,
+    "name": "placeholder product 147",
+    "image": "",
+    "points": 3
+  },
+  {
+    "tier": 13,
+    "name": "placeholder product 148",
+    "image": "",
+    "points": 60
+  },
+  {
+    "tier": 14,
+    "name": "placeholder product 149",
+    "image": "",
+    "points": 41
+  },
+  {
+    "tier": 15,
+    "name": "placeholder product 150",
+    "image": "",
+    "points": 39
+  }
+]

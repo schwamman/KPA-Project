@@ -15,7 +15,7 @@
                 <span class="bottom-right text-white text-sm rounded-md bg-green-500 px-1">236</span>
               </a>
             </div> -->
-            <a class="cart" href="/account">
+            <a class="cart" href="/rewards">
               <span class="text-white text-md rounded-md bg-green-500 p-2
                 shadow-sm text-3xl hover:shadow-lg
                 -mt-4
