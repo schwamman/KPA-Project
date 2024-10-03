@@ -77,7 +77,7 @@ npm run dev
 npm run build
 ```
 
-## External dependencies / Technologies Used: {#external-dependencies-technologies-used .unnumbered}
+## External dependencies / Technologies Used:
 
 -   Vue / Vite
 
