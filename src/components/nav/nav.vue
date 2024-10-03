@@ -31,11 +31,11 @@
           <li class="flex-auto">・</li>
           <li class="flex-auto"><a href="/">Purchase History</a></li>
           <li class="flex-auto">・</li>
-          <li class="flex-auto"><a href="/">Rewards</a></li>
+          <li class="flex-auto"><a href="/rewards">Rewards</a></li>
           <li class="flex-auto">・</li>
-          <li class="flex-auto"><a href="/">Account</a></li>
+          <li class="flex-auto"><a href="/account">Account</a></li>
           <li class="flex-auto">・</li>
-          <li class="flex-auto"><a href="/">🪙 215</a></li>
+          <li class="flex-auto"><a href="/rewards">🪙 215</a></li>
         </ul>
       </div>
     </div>
